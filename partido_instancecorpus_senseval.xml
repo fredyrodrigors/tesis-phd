@@ -1,0 +1,2040 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<corpus lang="Spanish">
+
+<lexelt item="partido.n">
+
+<instance id="partido.n.1" docsrc="efe_3607_2000/01/07">
+<cat scheme="ANPA" code="DEP:DEPORTES,FUTBOL"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.1" senseid="partido.2"/>
+<context>
+<previous>
+Con anterioridad, ha militado en San Lorenzo de Almagro, equipo en el que permaneció durante ocho temporadas y con el que llegó a jugar casi doscientos partidos en primera división.
+</previous>
+<target>
+El nuevo jugador del Elche fue traspasado al Numancia a principios de temporada, pero no ha entrado en los planos de Andoni Goicoechea, quien tan sólo le ha utilizado en un <head>partido</head> de Copa del Rey.
+</target>
+<following>
+Con respecto a la categoría en la que juega el Elche, el nuevo jugador ilicitano, ha dicho que "al igual que la primera división, la segunda es muy competitiva, hay grandes equipos. Hay que pelear mucho para sacar adelante un encuentro y eso es algo que no se me va a poder criticar, puesto que vengo a darlo todo, porque quiero jugar y triunfar en España".
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.2" docsrc="efe_4178_2000/01/08">
+<cat scheme="ANPA" code="DEP:DEPORTES,FUTBOL"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.2" senseid="partido.2"/>
+<context>
+<previous>
+Manzano auguró que Shoji Jo se aclimatará al fútbol español porque tiene "gran rapidez de movimientos" y que lo poco que puede faltarle lo adquirirá con un mínimo periodo de adaptación.
+</previous>
+<target>
+La incorporación de Jo ha propiciado que el club vallisoletano haya recibido numerosas peticiones de la camiseta del jugador desde Japón, desde donde se han solicitado también acreditaciones para ver los <head>partidos</head> del equipo.
+</target>
+<following>
+Unos treinta periodistas nipones estarán presentes el próximo lunes en la presentación del jugador, según confirmaron a Efe fuentes del club
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.3" docsrc="efe_6478_2000/01/11">
+<cat scheme="ANPA" code="DEP:DEPORTES,FUTBOL"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.3" senseid="partido.2"/>
+<context>
+<previous>
+Con el resultado, los "diablos rojos" acumulan cuatro puntos, terminan con cero en el saldo de goles y quedan a la espera de una goleada por tres tantos del Vasco da Gama al Necaxa mexicano para conquistar la plaza por el tercer lugar del torneo al que también opta el Real Madrid español.
+</previous>
+<target>
+Sin jugar el <head>partido</head> de la tercera jornada del Grupo B, los mexicanos acumulan cuatro puntos, pero tienen dos goles a su favor.
+</target>
+<following>
+El renovado Manchester no tuvo pena de ofrecer su espectáculo a una clientela inicial de 2.000 aficionados que fue multiplicándose mientras llegaba la hora del duelo central entre el Vasco da Gama y el Necaxa mexicano.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.4" docsrc="efe_12580_2000/01/19">
+<cat scheme="ANPA" code="DEP:DEPORTES,FUTBOL"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.4" senseid="partido.2"/>
+<context>
+<previous>
+El combinado polaco tiene prev isto ejercitarse esta tarde en el campo de césped artificial de la ciudad deportiva de alicante y, a partir de mañana, entrenarán en sesiones dobles, primero en el estadio Rico Pérez y posteriormente en el nuevo campo municipal de Alicante.
+</previous>
+<target>
+El próximo lunes se incorporarán a la expedición tres jugadores que este fin de semana disputan <head>partidos</head> con sus respectivos equipos, en ligas distintas a la polaca, así como otros tantos directivos.
+</target>
+<following>
+La delegación polonesa ha llegado a España encabezada por el que fuera guardameta de la selección polaca y del Hércules, Jan Tomasewsky. EFE
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.5" docsrc="efe_14371_2000/01/21">
+<cat scheme="ANPA" code="POL:POLITICA,PARTIDOS"/>
+<cat scheme="IPTC" code="11000000"/>
+<answer instance="partido.n.5" senseid="partido.1"/>
+<context>
+<previous>
+Al margen de esos dos millones de marcos, el nerviosismo va en aumento ante la cita, el domingo, de la cúpula cristianodemócrata con el informe de los auditores que investigan la contabilidad de esa formación desde 1990.
+</previous>
+<target>
+Un portavoz de la CDU aseguró hoy que hasta después de la reunión del "presidium" del domingo no va a haber información sobre los resultados de la auditoría encargada por el <head>partido</head>.
+</target>
+<following>
+Sin embargo, a mediados de semana se filtró ya la noticia de que los investigadores han detectado en las cuentas del partido hasta diez millones de marcos (unos cinco millones de dólares) de los que se desconoce la procedencia.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.6" docsrc="efe_14819_2000/01/21">
+<cat scheme="ANPA" code="DEP:DEPORTES,BALONMANO"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.6" senseid="partido.2"/>
+<context>
+<previous>
+El conjunto malagueño, que llegó hoy a Santander, viajó con las bajas de la extremo Ana Belén López y de la pivote Alma Valiente, mientras que la portera Diana Serrano y la pivote Ana Isabel Forner, ambas con gripe, son dudas para el partido.
+</previous>
+<target>
+El equipo santanderino, que la pasada temporada jugó la promoción de descenso y se salvó en los últimos <head>partidos</head>, se ha reforzado esta campaña con varias jugadoras extranjeras y aún no conoce la derrota en casa.
+</target>
+<following>
+El Cajacantabria comenzó la fase por la permanencia con cinco puntos, dos más que el Famadesa, al que también le valdría el empate para continuar con sus aspiraciones y mantenerse en la categoría.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.7" docsrc="efe_18037_2000/01/25">
+<cat scheme="ANPA" code="DEP:DEPORTES,FUTBOL"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.7" senseid="partido.2"/>
+<context>
+<previous>
+Tras el entrenamiento, el defensa uruguayo Tabaré Silva y el cordobés Juan Carlos resumieron el sentir general y el optimismo que mantiene la plantilla, pese a la delicada situación del equipo.
+</previous>
+<target>
+"Si tiramos ya la toalla, mejor no seguir, y lo que no podemos hacer es convertirnos en unos perdedores. Queda prácticamente toda la segunda vuelta y aquí no hay nada hecho. Estamos a tres <head>partidos</head> de salvación y por supuesto que lo vamos a intentar", aseveró Juan Carlos, máximo goleador del equipo sevillista, con ocho tantos.
+</target>
+<following>
+El ex vallisoletano aseguró que la pasada campaña "estaba más complicado el ascenso, ya que en marzo el equipo estaba a diez o doce puntos del cuarto y, al final, en dos meses se consiguió todo".
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.8" docsrc="efe_19418_2000/01/27">
+<cat scheme="ANPA" code="DEP:DEPORTES,FUTBOL"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.8" senseid="partido.2"/>
+<context>
+<previous>
+Aitor Ocio, defensa central del Albacete Balompié, por una rotura fibrilar, es baja segura para el partido que disputará el próximo sábado, a partir de las 19 horas, en El Madrigal ante el conjunto castellonense del Villarreal.
+</previous>
+<target>
+Ocio, que arrastraba una sobrecarga muscular, cayó lesionado en el transcurso del primer entrenamiento de la semana, el martes, y se suma a la ya conocida con anterioridad del meta Julio Iglesias, que ha sido suspendido un <head>partido</head> por acumulación de amonestaciones.
+</target>
+<following>
+Pero los problemas no acaban ahí para Julián Rubio, técnico del Albacete, quien mañana, por cierto, cumple años, pues la ausencia de Julio Iglesias será cubierta por Carlos Cano, pero el problema surge con el suplente, pues iba a ser convocado Alejandro, titular del filial, pero se ha lesionado esta semana y estará en el banquillo José Almendros, suplente del Albacete B, de 19 años.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.9" docsrc="efe_19465_2000/01/27">
+<cat scheme="ANPA" code="POL:POLITICA,PARTIDOS"/>
+<cat scheme="IPTC" code="11000000"/>
+<answer instance="partido.n.9" senseid="partido.1"/>
+<context>
+<previous>
+El presidente de Coalición Canaria, Paulino Rivero, advirtió hoy que sería "mucho más difícil" que esta formación diera apoyo a un hipotético Gobierno PSOE-IU que a una mayoría parlamentaria sólo de los socialistas.
+</previous>
+<target>
+Rivero, en conferencia de prensa, hizo un balance positivo de la colaboración de CC con el Gobierno del PP en la pasada Legislatura y dijo que "todo apunta" a que el entendimiento con ese <head>partido</head> sea el que se produzca a partir del 12 de marzo.
+</target>
+<following>
+Así, destacó el hecho de que no se hayan producido "graves tensiones, ni grandes dificultades" y que Coalición Canaria ha cumplido "al cien por cien" todos sus objetivos, tanto en defensa de los intereses de Canarias, como en su afán de contribución a la gobernabilidad del Estado.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.10" docsrc="efe_20667_2000/01/28">
+<cat scheme="ANPA" code="DEP:DEPORTES,VOLEIBOL"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.10" senseid="partido.2"/>
+<context>
+<previous>
+Con todo, matizó que no deben confiarse ante el CV Vigo, al ser "un equipo que, a pesar de ir penúltimo, tiene buenos jugadores y que en su cancha es difícil, al jugar muy arropado por su público".
+</previous>
+<target>
+Hervás piensa que ganar en Vigo les valdría para afrontar los siguientes compromisos "con más tranquilidad", ya que en las tres próximas jornadas se enfrentarán al Guaguas Las Palmas, Numancia de Soria y Unicaja Almería, <head>partidos</head> en los que, según el técnico, el Ivesur se jugará la clasificación para la fase por el título".
+</target>
+<following>
+La jornada decimoquinta en la Superliga se completa con los siguientes encuentros: Universidad Complutense-Escáner Cartagena; Hospitalet-U.Granada; Unicaja Almería-Pepsi Gijón; Numancia-Aguas de Huelva y Guaguas Las Palmas-Sant Pere y Sant Pau de Tarragona
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.11" docsrc="efe_21080_2000/01/29">
+<cat scheme="ANPA" code="DEP:DEPORTES,FUTBOL"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.11" senseid="partido.2"/>
+<context>
+<previous>
+El Málaga CF intentará dar continuidad a la buena racha que lleva fuera de casa y repetir la victoria que logró hace once campañas en el estadio bético, en la 88/89, la última en la máxima categoría del desaparecido CD Málaga, cuando venció por 1-2.
+</previous>
+<target>
+El conjunto malagueño llega herido, al igual que el Betis por sus dos últimas derrotas, y buscará resarcirse del <head>partido</head> que perdieron contra el Alavés la pasada jornada en La Rosaleda y situarse en una posición cómoda de la tabla.
+</target>
+<following>
+El equipo blanquiazul ha conseguido hasta ahora cuatro victorias lejos de Málaga, frente al Barcelona (1-2), Celta (2-4), Racing de Santander (2-3) y Espanyol (0-2), por lo que tratará de que el estadio Manuel Ruiz de Lopera sea un lugar propicio para seguir encadenando éxitos que palíen los tropiezos que sufre en su campo.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.12" docsrc="efe_420_2000/02/01">
+<cat scheme="ANPA" code="DEP:DEPORTES,FUTBOL"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.12" senseid="partido.2"/>
+<context>
+<previous>
+</previous>
+<target>
+El Deportivo recibirá mañana al Osasuna en el <head>partido</head> de vuelta de octavos de final de la Copa del Rey con la intención de lavar la mala imagen que en las últimas semanas ha ofrecido en la Liga, mientras que el conjunto de Pamplona tratará de repetir la gesta que consiguió ante el Valencia en la anterior eliminatoria.
+</target>
+<following>
+Los deportivistas, a pesar de mantenerse como líderes en la competición liguera, han perdido la mayor parte de la renta de la que disfrutaban frente al Barcelona y el Zaragoza. Todos entienden que eliminar al Osasuna es el antídoto para superar la situación.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.13" docsrc="efe_2479_2000/02/03">
+<cat scheme="ANPA" code="DEP:DEPORTES,BALONCESTO"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.13" senseid="partido.2"/>
+<context>
+<previous>
+"Veremos si somos un equipo con la suficiente ambición para movernos entre los puestos del sexto al décimo, pero no más abajo porque entonces nos pondríamos nerviosos", agregó.
+</previous>
+<target>
+Los insulares llegarán a Gijón sin la presencia de uno de los pilares básicos del equipo, el estadounidense Deon Thomas, que sufrió una elongación muscular torácica en el <head>partido</head> ante el Caja San Fernando en Vitoria. Lo médicos observarán su evolución en 72 horas y diagnosticarán si mejora y puede estar presente en el encuentro ante el León Caja España, dentro de una semana.
+</target>
+<following>
+Hussein, ante este contratiempo que supone la baja de Thomas, ha incorporado al jugador dominicano Marlon Martínez, pívot del CB Gran Canaria de la Liga EBA, aunque es difícil que el jugador caribeño disfrute de algunos minutos en la cancha.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.14" docsrc="efe_5411_2000/02/07">
+<cat scheme="ANPA" code="SOC:SOCIEDAD-SALUD,COMUNICACION"/>
+<cat scheme="IPTC" code="07000000"/>
+<cat scheme="IPTC" code="14000000"/>
+<answer instance="partido.n.14" senseid="partido.1"/>
+<context>
+<previous>
+CAMBIO 16: "HEIL HAIDER!"
+</previous>
+<target>
+La revista "Cambio 16" dedica su portada de esta semana al líder del <head>partido</head> liberal austriaco, Joerg Haider, que "se ha convertido en un escalofrío que recorre Europa. El pacto de los conservadores austriacos con la ultraderecha reabre en Europa el temor de una ideología que debía estar enterrada".
+</target>
+<following>
+La revista recuerda algunas de las líneas generales de las opiniones de Haider como por ejemplo su idea de que "Austria es un aborto ideológico", así como su admiración por el III Reich, que considera que tenía "una metódica política de empleo".
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.15" docsrc="efe_5882_2000/02/07">
+<cat scheme="ANPA" code="POL:POLITICA,PARTIDOS"/>
+<cat scheme="IPTC" code="11000000"/>
+<answer instance="partido.n.15" senseid="partido.1"/>
+<context>
+<previous>
+Frutos dijo que "el acuerdo ha removido las aguas estancadas de la izquierda", criticó la reacción del presidente de la CEOE, José María Cuevas, y, en referencia a Federico Trillo, afirmó que "algunos ya no encuentran otros argumentos que meterse con las barbas de Víctor Ríos".
+</previous>
+<target>
+Por su parte, Joaquín Almunia aseguró que con el acuerdo firmado entre su <head>partido</head> e IU ganan "los progresistas", y se mostró convencido de que "los únicos perdedores son quienes van a perder las elecciones el 12 de Marzo".
+</target>
+<following>
+"Ellos lo saben, porque son de derechas, pero no tontos", aseguró el candidato socialista, quien añadió que "por eso están nerviosos, crispados y, con perdón de sus asesores de imagen, descentrados".
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.16" docsrc="efe_11006_2000/02/14">
+<cat scheme="ANPA" code="DEP:DEPORTES,NATACION"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.16" senseid="partido.2"/>
+<context>
+<previous>
+</previous>
+<target>
+El Canoe, campeón de la Liga de waterpolo en 1999, se enfrentará al Martiánez en el primer <head>partido</head> de los cuartos de final de la Copa del Rey que se disputará el próximo fin de semana en las instalaciones municipales del polideportivo Prado de Santo Domingo, de la localidad madrileña de Alcorcón.
+</target>
+<following>
+En esta XIV edición de la Copa del Rey de waterpolo participan los ocho primeros equipos clasificados al término de la primera vuelta del campeonato de Liga Nacional que finalizó ayer.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.17" docsrc="efe_13956_2000/02/17">
+<cat scheme="ANPA" code="POL:POLITICA,PARTIDOS"/>
+<cat scheme="IPTC" code="11000000"/>
+<answer instance="partido.n.17" senseid="partido.1"/>
+<context>
+<previous>
+Por otra parte, Puigcercós se ha mostrado partidario de la financiación "mayoritariamente pública" de los partidos, aunque ha aceptado un máximo del 25% de donativos privados, siempre que se asegure su transparencia e implique desgravaciones fiscales para los donantes.
+</previous>
+<target>
+"La financiación ilegal de los <head>partidos</head> políticos es un freno a la economía productiva", ha sostenido el candidato, que ha explicado que, durante la reunión, "algún miembro del Círculo de Economía ha estimado en 20.000 millones de pesetas anuales la cantidad destinada a financiación irregular en Cataluña".
+</target>
+<following>
+En este sentido, el líder republicano ha exigido un mayor control de las adjudicaciones de obras y servicios a empresas privadas y de la contratación pública, así como sanciones más duras para los casos de cobro de comisiones ilegales y financiación irregular
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.18" docsrc="efe_18566_2000/02/23">
+<cat scheme="ANPA" code="DEP:DEPORTES,BALONCESTO"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.18" senseid="partido.2"/>
+<context>
+<previous>
+Jamison, de 23 años, no había participado en los últimos cuatro partidos de los Warriors debido a las dolencias en la rodilla izquierda.
+</previous>
+<target>
+El alero es el máximo anotador de los Warriors con un promedio de 19,6 puntos por <head>partido</head>, además de ser el mejor debajo de los tableros con una media de 8,4 rebotes por encuentro
+</target>
+<following>
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.19" docsrc="efe_18663_2000/02/23">
+<cat scheme="ANPA" code="DEP:DEPORTES,POLIDEPORTIVO"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.19" senseid="partido.2"/>
+<context>
+<previous>
+</previous>
+<target>
+Las manifestaciones de los jugadores el Real Madrid y Barcelona sobre el próximo partido entre ambos equipos y las lesiones que les afectan, el adiós a Antonio Díaz Miguel y el <head>partido</head> que disputará hoy la selección española contra la de Croacia son las noticias que destacan hoy los periódicos deportivos.
+</target>
+<following>
+El diario "As" recoge un su primera página "un mensaje de Roberto Carlos desde Tailandia", "Líderes cuanto antes. Ya es hora de que empecemos a meter miedo", en cuanto al maratón de partidos que ha disputado el jugador brasileño, afirma: "No se preocupen por mí, ya descansaré en el avión".
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.20" docsrc="efe_21281_2000/02/25">
+<cat scheme="ANPA" code="DEP:DEPORTES,BALONCESTO"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.20" senseid="partido.2"/>
+<context>
+<previous>
+Babkov jugará ante el Breogán este fin de semana, a la espera de que Collins le supla la siguiente semana ante el Adecco Estudiantes, si en ese plazo de tiempo la entidad badalonesa da su visto bueno al fichaje del ale ro. 
+</previous>
+<target>
+El estadounidense es un escolta de 26 años y 1,94 metros de altura, que en la presente temporada ha jugado dos <head>partidos</head> con el conjunto francés del Basket Strasburgo, en los que promedió 25,5 puntos por encuentro.
+</target>
+<following>
+Collins, formado en la Universidad de Florida State, fue elegido por Phoenix en la segunda ronda del sorteo universitario de 1.997 con el número 37. En la temporada 1997-98 jugó 23 partidos con Angeles Clippers.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.21" docsrc="efe_22653_2000/02/27">
+<cat scheme="ANPA" code="DEP:DEPORTES,FUTBOL"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.21" senseid="partido.2"/>
+<context>
+<previous>
+Por su parte, el técnico del Rayo, Juande Ramos, no ha puesto ningún reproche a la victoria españolista, aunque cree que está sobredimensionada, porque entiende que el 5-1 "no es la diferencia entre los dos equipos".
+</previous>
+<target>
+"Ha sido un marcador duro. Después de controlar el <head>partido</head> (0-1), nos hemos relajado y nos han marcado dos goles por errores infantiles", ha subrayado Ramos.
+</target>
+<following>
+"Con la mínima ventaja nos pensábamos que estaba todo hecho y que íbamos a ganar. Las tres ausencia en defensa nos han hecho mucho daños. Se han notado mucho", ha añadido
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.22" docsrc="efe_22816_2000/02/28">
+<cat scheme="ANPA" code="DEP:DEPORTES,FUTBOL"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.22" senseid="partido.2"/>
+<context>
+<previous>
+La goleada del Universidad de Chile, flamante campeón de la temporada pasada, destacó en la segunda jornada del torneo de apertura del fútbol chileno al vencer al O`Higgins de Rancagua, por 4-0.
+</previous>
+<target>
+El cuadro universitario, que el pasado miércoles goleó también al Atlético Nacional de Colombia, por 4-0, en <head>partido</head> válido por el Grupo 4 de la Copa Libertadores de América, esta vez repitió la cifra aunque ahora los autores de los tantos fueron los jugadores suplentes.
+</target>
+<following>
+Los titulares del Universidad de Chile instalados en la gradas del estadio "El Teniente" de Rancagua, vieron como los goles de Marcos González (a los 3 minutos); del argentino Diego Rivarola (m.36), de Sebastián Pardo (m.53), y Edson Monsalve (m.78), dieron cuenta fácil del dueño de casa, que en la primera fecha había sufrido otra derrota frente al Unión Española, por 5-2.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.23" docsrc="efe_23430_2000/02/28">
+<cat scheme="ANPA" code="DEP:DEPORTES,FUTBOL"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.23" senseid="partido.2"/>
+<context>
+<previous>
+Además, el conjunto cordobés es el segundo de la categoría que menos goles ha recibido a domicilio, con trece en total y sólo superado en esta faceta por el Badajoz, que lleva siete.
+</previous>
+<target>
+El Córdoba, tras ganar 0-2 a Osasuna en El Sadar, está situado actualmente en el undécimo puesto de la tabla, con 39 puntos, después de haber encadenado una racha de seis <head>partidos</head> sin perder, en los que ha sumado dieciséis de los dieciocho puntos posibles, gracias a cinco triunfos y un empate
+</target>
+<following>
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.24" docsrc="efe_23527_2000/02/28">
+<cat scheme="ANPA" code="POL:POLITICA,PARTIDOS"/>
+<cat scheme="IPTC" code="11000000"/>
+<answer instance="partido.n.24" senseid="partido.1"/>
+<context>
+<previous>
+Y confió en que "más allá de la rabia y desánimo, haya plena confianza" en que la movilización "permanente y constante en el País Vasco no cesará ya" hasta que finalmente triunfen "los principios sobre las tácticas".
+</previous>
+<target>
+En el acto también intervinieron el secretario general del PP, Javier Arenas; el presidente del PP de Euskadi, Carlos Iturgaiz, y el presidente del <head>partido</head> en Vizcaya, Leopoldo Barreda.
+</target>
+<following>
+Unos minutos después de comenzado el acto, se escuchó un repentino estruendo en el interior de la sede que hizo saltar a todos los presentes, hasta que segundos más tarde se comprendió que el sonoro golpe no era más que una de las tribunas dispuestas para los cámaras de televisión que se había desplomado.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.25" docsrc="efe_24214_2000/02/29">
+<cat scheme="ANPA" code="DEP:DEPORTES,FUTBOL"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.25" senseid="partido.2"/>
+<context>
+<previous>
+Según el desarrollo del partido, también podrán tener su oportunidad Armando, Serrizuela e Ibagaza, entre otros.
+</previous>
+<target>
+El Mallorca sólo ha perdido un <head>partido</head> en Son Moix -ante el Real Madrid en la primera jornada de Liga- y confía en la fortaleza que está demostrando en su campo para obtener un resultado positivo ante el Mónaco.
+</target>
+<following>
+Vázquez no podrá contar con el camerunés Samuel Eto`o, porque ya disputó unos minutos de la Liga de Campeones con el Real Madrid ante el Molde noruego, ni con los lesionados Biagini, "Polo" Quinteros y Djokaj
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.26" docsrc="efe_24440_2000/02/29">
+<cat scheme="ANPA" code="DEP:DEPORTES,FUTBOL"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.26" senseid="partido.2"/>
+<context>
+<previous>
+---------
+</previous>
+<target>
+- Un <head>partido</head> de suspensión por doble amonestación y consiguiente expulsión a Darío Silva (Málaga), Neru (Racing), Fuentes (Real Sociedad) y Guti (Real Madrid).
+</target>
+<following>
+- Un partido de suspensión por acumulación de amonestaciones a Urrutia (Athletic), De los Santos (Málaga), Bornes, Oli y Karhan (Betis), Héctor (Sevilla), Lauren (Mallorca), Munitis (Racing), Sa Pinto (Real Sociedad), Karanka (Real Madrid), Kluivert y Abelardo (Barcelona), Pacheta y Muñiz (Numancia).
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.27" docsrc="efe_1776_2000/03/02">
+<cat scheme="ANPA" code="DEP:DEPORTES,FUTBOL"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.27" senseid="partido.2"/>
+<context>
+<previous>
+La victoria del Ulker se fraguó después con tres tiros libres, dos anotados por Sarica y uno por Allen, lo cual supone la disputa de un tercer partido de desempate en Barcelona el próximo jueves.
+</previous>
+<target>
+"Es una ventaja afrontar el tercer <head>partido</head> en nuestra pista y sentir el apoyo del público", dijo Aito, quien se quejó por el juego hecho hoy por su equipo
+</target>
+<following>
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.28" docsrc="efe_1959_2000/03/02">
+<cat scheme="ANPA" code="DEP:DEPORTES,BALONCESTO"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.28" senseid="partido.2"/>
+<context>
+<previous>
+El PAOK Salónica frenó la excelente marcha del Maccabi en Liga Europea, propició la primera derrota del conjunto israelí del año 2000 en la competición continental tras imponerse por 67-55 y aplazó el desenlace de la eliminatoria para dentro de una semana, cuando ambos equipos resuelvan su enfrentamiento en el pabellón de la Mano de Elías la próxima semana.
+</previous>
+<target>
+La fuerza con la que el cuadro israelí afrontó el partido fue frenada de inmediato por el conjunto griego, que tras la desventaja inicial (0-5, m.2), se hizo con el mando del <head>partido</head> y del marcador después de imponer su ritmo y aprovechar el excelente momento anotador de Bill Edwards, que anotó diecisiete puntos.
+</target>
+<following>
+La aportación de Giorgios Balogiannis resultó determinante. Tres triples consecutivos del alero griego terminaron por dar la victoria al cuadro heleno y forzar el desempate para dentro de siete días
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.29" docsrc="efe_4242_2000/03/06">
+<cat scheme="ANPA" code="POL:POLITICA,ELECCIONES,PRESIDENCIALES"/>
+<cat scheme="IPTC" code="11000000"/>
+<answer instance="partido.n.29" senseid="partido.1"/>
+<context>
+<previous>
+De ellas, la más importante es la de California, en la que se decidirán 162 delegados republicanos y 367 demócratas.
+</previous>
+<target>
+En ese estado el sistema de votación está abierto a los independientes y a los representantes de cualquier <head>partido</head>, aunque los delegados demócratas y republicanos se definirán sólo por el voto de cada fuerza política.
+</target>
+<following>
+En California puede, por tanto, darse la situación de que un candidato gane la votación general, pero pierda frente al rival de su mismo partido en cuanto al número de compromisarios.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.30" docsrc="efe_4831_2000/03/06">
+<cat scheme="ANPA" code="POL:POLITICA,ELECCIONES"/>
+<cat scheme="IPTC" code="11000000"/>
+<answer instance="partido.n.30" senseid="partido.1"/>
+<context>
+<previous>
+</previous>
+<target>
+Dos candidatos del <head>partido</head> Los Verdes de Canarias llegaron hoy a la playa, se quitaron la ropa y se dedicaron a repartir sus programas electorales, en la famosa Playa del Inglés, en el municipio de Valle del Rey de la isla de La Gomera.
+</target>
+<following>
+Los desnudos candidatos, entre los que se encontraba su cabeza de lista por la provincia de Santa Cruz de Tenerife, Joaquín Galera, llevaron así a las últimas consecuencias la necesidad de su partido de tener un contacto directo con la gente e innovar sobre los tan frecuentes mítines políticos.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.31" docsrc="efe_8761_2000/03/10">
+<cat scheme="ANPA" code="POL:POLITICA,ELECCIONES"/>
+<cat scheme="IPTC" code="11000000"/>
+<answer instance="partido.n.31" senseid="partido.1"/>
+<context>
+<previous>
+La presidenta de EA, Begoña Errazti, opinó hoy que los "imperialistas españoles" intentan "eliminar cualquier viso de esperanza y solución" en el País Vasco porque son conscientes de que cuando desaparezca la violencia "nos dedicaremos a construir país y no nos parará absolutamente nadie".
+</previous>
+<target>
+Errazti, quien intervino esta noche junto al fundador del <head>partido</head>, Carlos Garaikoetxea, y la candidata Begoña Lasagabaster en un mitin de cierre de campaña en San Sebastián, denunció "la estrategia contra las ideas nacionalistas" de los partidos estatales y su interés por crear "confusión" entre nacionalismo y violencia.
+</target>
+<following>
+"Que no nos utilicen", advirtió la dirigente de EA, quien instó al próximo presidente del Gobierno central a que sepa "responder a las necesidades de paz y normalización política del pueblo vasco con inteligencia" y busque "los intereses de Estado y no los intereses partidistas".
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.32" docsrc="efe_9698_2000/03/12">
+<cat scheme="ANPA" code="DEP:DEPORTES,FUTBOL"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.32" senseid="partido.2"/>
+<context>
+<previous>
+El técnico del RCD Espanyol, Paco Flores, destacó el "magnífico encuentro" de su equipo, el "excelente" trabajo de Raúl Tamudo y los buenos resultados de terceros equipos que se ha combinado con la victoria españolista para alejarse de los puestos de descenso.
+</previous>
+<target>
+"Todos los resultados nos han beneficiado, pero estoy especialmente contento porque la imagen del equipo ha sido muy buena", dijo Flores, quien no comparte la opinión con Víctor Fernández sobre que la expulsión de Coira resultara determinante en la suerte del <head>partido</head>.
+</target>
+<following>
+Flores destacó la actuación de Tamudo, autor de dos tantos, y minimizó el hecho de que el Celta no haya contado con ocho jugadores de su plantilla, porque "disponen de una plantilla de gran nivel".
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.33" docsrc="efe_10551_2000/03/13">
+<cat scheme="ANPA" code="DEP:DEPORTES,FUTBOL"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.33" senseid="partido.2"/>
+<context>
+<previous>
+</previous>
+<target>
+Los jugadores del Atlético de Madrid Carlos Aguilera y el yugoslavo Veljko Paunovic, que sufrieron sendas lesiones en el <head>partido</head> del domingo en Valladolid, serán bajas para el derbi del próximo sábado contra el Real Madrid, al igual que el sancionado Juan Carlos Valerón.
+</target>
+<following>
+Según informó hoy el médico del equipo, José María Villalón, Aguilera sufre un esguince cervical que le mantendrá alejado de la competición durante dos semanas y que le obligará a guardar reposo en los próximos días con un collarín.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.34" docsrc="efe_11261_2000/03/14">
+<cat scheme="ANPA" code="POL:POLITICA,PARTIDOS"/>
+<cat scheme="ANPA" code="POL:POLITICA,ELECCIONES"/>
+<cat scheme="IPTC" code="11000000"/>
+<answer instance="partido.n.34" senseid="partido.1"/>
+<context>
+<previous>
+Recordó que los partidos constitucionalistas en el País Vasco han conseguido once diputados frente a los ocho de los partidos nacionalistas y consideró que la polarización que, a su juicio, se está dando en la vida política en los últimos tiempos "ha beneficiado" al PNV y al PP.
+</previous>
+<target>
+Redondo anunció que ante esta situación el PSE-EE remarcará su "proyecto autónomo", sin estar mirando a ambos <head>partidos</head> para establecer su estrategia, y en referencia a los populares hizo un "emplazamiento para que estén a la altura de las circunstancias y abandonen discursos vacíos de contenido".
+</target>
+<following>
+Hizo referencia a los resultados obtenidos por el PSOE en el conjunto de España y dijo que su primera consecuencia directa, la dimisión del secretario general, Joaquín Almunia, "aunque tal vez no haya sido políticamente correcta, engrandece a la persona y pone al partido en una encrucijada que requiere tranquilidad".
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.35" docsrc="efe_12422_2000/03/15">
+<cat scheme="ANPA" code="POL:POLITICA,ELECCIONES"/>
+<cat scheme="IPTC" code="11000000"/>
+<answer instance="partido.n.35" senseid="partido.1"/>
+<context>
+<previous>
+En su opinión, debe abrirse una reflexión sobre la situación de "personas contratadas a dedo" para obras de emergencia en la Cañada de Hidum o en cooperativas "que sorprendentemente bajan su rendimiento en campaña electoral porque algunas trabajan para las campañas de determinadas formaciones políticas".
+</previous>
+<target>
+Denunció que en esos colegios "se vota a ciegas a determinados <head>partidos</head>" y reivindicó el derecho a expresarse en las urnas "en libertad, con capacidad de decisión y no condicionado por un puesto de trabajo".
+</target>
+<following>
+Velázquez dijo que "aún estamos a tiempo de que en Melilla se pueda votar con mayor grado de libertad" y abogó por formar un nuevo Gobierno "sin ataduras, que no precise del clientelismo político" y que con su gestión y control interno pueda llevar la "madurez" a los citados barrios
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.36" docsrc="efe_13566_2000/03/16">
+<cat scheme="ANPA" code="POL:POLITICA,PARTIDOS"/>
+<cat scheme="IPTC" code="11000000"/>
+<answer instance="partido.n.36" senseid="partido.1"/>
+<context>
+<previous>
+A los "barones" del PSOE se les ha encargado ahora la formación de la comisión gestora que deberá dirigir al partido hasta el Congreso de julio próximo, en el que los socialistas elegirán al sustituto de Almunia, quien la misma noche electoral anunció su renuncia tras tres años en el cargo.
+</previous>
+<target>
+La dimisión de Almunia, que fue aplaudida unánimemente por sus correligionarios como un gesto de honradez, imprescindible además para acometer la renovación del <head>partido</head>, ha desatado una oleada de renuncias en el seno de la dirección.
+</target>
+<following>
+En los últimos días han renunciado todos los miembros de la Ejecutiva del partido, así como las direcciones locales de Murcia y Burgos, mientras que el líder del PSOE en Cataluña, Narcís Serra, adelantó su inminente retirada del cargo, y hoy mismo dimitió la dirección local de Ourense -"para dar ejemplo"- y el secretario general del PSOE en Aragón, Isidoro Esteban.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.37" docsrc="efe_14153_2000/03/17">
+<cat scheme="ANPA" code="POL:POLITICA,EXTERIOR"/>
+<cat scheme="IPTC" code="11000000"/>
+<answer instance="partido.n.37" senseid="partido.1"/>
+<context>
+<previous>
+"El problema es la naturaleza del partido FPOE", afirmó Guterres, refiriéndose a la formación de ultraderecha presidida hasta hace poco por Joerg Haider.
+</previous>
+<target>
+"O bien el Gobierno cambia de <head>partido</head> o el partido cambia de naturaleza", recalcó el primer ministro portugués.
+</target>
+<following>
+Los catorce socios comunitarios de Austría decidieron el boicot político de Viena en respuesta a la alianza de los conservadores austríacos con el FPOE para formar Gobierno, liderado por el canciller Wolfgang Schuessel.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.38" docsrc="efe_14517_2000/03/17">
+<cat scheme="ANPA" code="DEP:DEPORTES,FUTBOL"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.38" senseid="partido.2"/>
+<context>
+<previous>
+Por su parte, Luis Oliver, apoderado del Xerez Deportivo, club del Grupo IV de la Segunda División B que utiliza habitualmente el Municipal de Chapín, señaló que esta entidad recibirá con los abrazos abiertos al Sevilla FC y a sus seguidores.
+</previous>
+<target>
+Oliver señaló que el estadio jerezano es un recinto muy moderno con cerca de veinte mil localidades sentadas y que cree que no todos los abonados sevillistas se desplazarán para el <head>partido</head>, por lo que confía en que no existan problemas para dar ubicar a los espectadores
+</target>
+<following>
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.39" docsrc="efe_17070_2000/03/21">
+<cat scheme="ANPA" code="DEP:DEPORTES,FUTBOL"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.39" senseid="partido.2"/>
+<context>
+<previous>
+</previous>
+<target>
+Las selecciones nacionales de fútbol sub`23 de México y la mayor de Venezuela se verán las caras este miércoles en la ciudad mexicana de Villahermosa, en un <head>partido</head> amistoso que será el último antes de que ambas jueguen eliminatorias olímpicas y mundialistas, respectivamente.
+</target>
+<following>
+Venezuela empezará la semana próxima su participación en la eliminatoria suramericana para el Mundial del 2002 contra Ecuador y el equipo sub`23 de México tiene su mente puesta en las selecciones de Jamaica, Costa Rica y Honduras, sus rivales del preolímpico que se jugará en abril próximo en la ciudad mexicana de Guadalajara.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.40" docsrc="efe_18886_2000/03/23">
+<cat scheme="ANPA" code="DEP:DEPORTES,FUTBOL"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.40" senseid="partido.2"/>
+<context>
+<previous>
+Tras el entrenamiento que hoy tuvo la plantilla deportivista en las instalaciones de Acea da Ama, Pauleta insistió ante los periodistas en que no hizo "nada para merecer una sanción de dos partidos" y se mostró convencido de que eso mismo "lo hubiera hecho un jugador del Real Madrid o del Barcelona no le habrían castigado".
+</previous>
+<target>
+El jugador portugués expresó no obstante su confianza en que el Deportivo no precisará de sus servicios para obtener un resultado satisfactorio en el <head>partido</head> de Liga que el próximo domingo, a partir de las siete y media de la tarde, disputará en Riazor ante el Oviedo.
+</target>
+<following>
+Respecto a las opciones que su equipo puede tener para conseguir su primer título de Liga, Pauleta dijo: "nos lo merecemos y tenemos las condiciones necesarias para conseguirlo".
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.41" docsrc="efe_19563_2000/03/24">
+<cat scheme="ANPA" code="POL:POLITICA,PARTIDOS"/>
+<cat scheme="IPTC" code="11000000"/>
+<answer instance="partido.n.41" senseid="partido.1"/>
+<context>
+<previous>
+La presidenta del PDNI, Cristina Almeida, calificó hoy a Manuel Chaves como "un hombre capaz de aunar voluntades y una persona que tiene una representatividad dentro del PSOE gobernando Andalucía, una de las comunidades más amplias".
+</previous>
+<target>
+"Deben serenarse las cosas en el PSOE para poder reflexionar de cara a la sociedad y seguir trabajando políticamente", indicó Almeida en relación a la decisión del comité federal socialista de crear una gestora encabezada por Chaves, que dirigirá el <head>partido</head> hasta el congreso ordinario de julio. 
+</target>
+<following>
+En declaraciones a Efe en el aeropuerto de Barajas antes de embarcar en un vuelo con destino a La Coruña para inaugurar la casa de la mujer de esta ciudad, la presidenta del PDNI y del Grupo PSOE-Progresistas de la Asamblea de Madrid opinó que en el PSOE debe producirse una reflexión colectiva hacia la sociedad "que debe alcanzar algo más que el cuestionamiento interno".
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.42" docsrc="efe_22018_2000/03/27">
+<cat scheme="ANPA" code="DEP:DEPORTES,FUTBOL"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.42" senseid="partido.2"/>
+<context>
+<previous>
+El reporte médico señaló que Cagua necesitaba 48 horas de descanso para volver a la actividad y eso incidió para convocar a Reasco.
+</previous>
+<target>
+"Estoy motivado por la convocatoria y muy tranquilo. Espero hacer un buen trabajo para convencer al técnico de que debo estar entre los titulares en el <head>partido</head> frente a Venezuela", expresó hoy Reasco a la prensa local.
+</target>
+<following>
+Cagua, de 24 años, permanece concentrado con sus compañeros y no descarta la posibilidad de recuperarse y jugar el choque eliminatorio, que se disputará el miércoles en la capital ecuatoriana
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.43" docsrc="efe_22755_2000/03/28">
+<cat scheme="ANPA" code="DEP:DEPORTES,FUTBOL"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.43" senseid="partido.2"/>
+<context>
+<previous>
+"Clubes importantes est aban interesados, pero el Valencia siempre fue mi primera opción. Lo he visto por televisión y me ha impresionado. El Valencia es de los mejores clubes españoles y no podía desaprovechar esta oportunidad", indica al joven punta nórdico, quien pertenece actualmente al Rosenborg de Trondheim.
+</previous>
+<target>
+Carew, que se encuentra en Bellinzona para disputar un <head>partido</head> amistoso con la selección noruega sub`21 contra Suiza, nació el 5 de septiembre de 1979 y reconoció que ya solamente queda la rúbrica de la documentación.
+</target>
+<following>
+"No he firmado todavía el contrato, pero todas las condiciones están pactadas", afirmó el noruego, cuyo fichaje le costará al Valencia entre 8,4 y 9,6 millones de dólares, según fuentes cercanas al club noruego.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.44" docsrc="efe_25423_2000/03/31">
+<cat scheme="ANPA" code="DEP:DEPORTES,FUTBOL"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.44" senseid="partido.2"/>
+<context>
+<previous>
+El jugador de la cantera zaragocista destacó la sorpresa que supone ver al Betis en la zona baja de la clasificación. "Tiene una plantilla muy buena y su situación no es conforme con su potencial deportivo, por lo que serán dos problemas que tengamos que resolver", señaló.
+</previous>
+<target>
+El defensa del Real Zaragoza no cree que las tensiones que ha vivido el conjunto sevillano, reflejadas ampliamente en los medios de comunicación, vayan a suponer una merma en la capacidad verdiblanca porque saldrá "a por todas" para ganar el <head>partido</head> y sumar tres puntos que alivien su difícil situación en la clasificación
+</target>
+<following>
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.45" docsrc="efe_157_2000/04/01">
+<cat scheme="ANPA" code="DEP:DEPORTES,FUTBOLSALA"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.45" senseid="partido.2"/>
+<context>
+<previous>
+Habrá dos grupos de tres equipos, que serán sorteados próximamente, y los dos primeros de cada uno de ellos disputarán las semifinales.
+</previous>
+<target>
+El torneo se jugará con las reglas de la FIFA y durante la primera fase se disputarán dos partidos cada día, el 26, 27 y 28 de abril, a las 18.30 y 20.30 horas. Las semifinales están programadas para el domingo 30 de abril a las 12.00 y 17.00, mientras que el <head>partido</head> por el tercer puesto y la final se jugarán el lunes 1 de mayo a las 10.00 y 12.00 horas, respectivamente.
+</target>
+<following>
+La anécdota del acto de presentación del Campeonato de Europa de Clubes la protagonizó Miguel Angel de Vicente, que al sentarse en la silla que le había sido reservada, en un pequeño estrado, sufrió una espectacular caída y tiró el decorado que había detrás.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.46" docsrc="efe_344_2000/04/01">
+<cat scheme="ANPA" code="DEP:DEPORTES,BALONMANO"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.46" senseid="partido.2"/>
+<context>
+<previous>
+Comentario:
+</previous>
+<target>
+Caja España Ademar y FC Barcelona empataron un <head>partido</head> que estuvo marcado por la igualdad y en que se dio el mismo resultado que la pasada temporada en el de la liga regular (29-29).
+</target>
+<following>
+El Ademar, a pesar de las bajas de Entrerríos y Pérez Canca, dio la cara y aguantó a un Barcelona con notables ausencias, ya que la aportación de Juanín, con su velocidad, del central Esquer y del pivote Juancho, que aprovechó la ausencia de Chepkin, permitió al equipo leonés llegar al descanso con un 16-16.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.47" docsrc="efe_1012_2000/04/03">
+<cat scheme="ANPA" code="DEP:DEPORTES,FUTBOL"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.47" senseid="partido.2"/>
+<context>
+<previous>
+Los hondureños fueron los primeros en amenazar con abrir el marcador en el minuto 35 cuando Eduardo Bennett dejó en el camino al defensa panameño Antony Torres, pero no pudo vencer al portero Ricardo James, que logró desviar un potente disparo del delantero hondureño, en una de las tantas veces que salvó al equipo panameño.
+</previous>
+<target>
+Después de esta jugada Panamá perdió a su mejor defensa Antony Torres, que tuvo que salir del <head>partido</head> tras sufrir una fractura en dos costillas como resultado de un choque con el delantero hondureño Cárcamo.
+</target>
+<following>
+A partir de ese momento, Panamá perdió organización en el campo y los hondureños sacaron provecho de esto con algunos contragolpes que pusieron en aprietos a la debilitada defensa panameña, mientras que el sustituto de Torres, Ubaldo Guardia, aunque lo tuvo difícil, hizo un buen trabajo.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.48" docsrc="efe_1560_2000/04/03">
+<cat scheme="ANPA" code="DEP:DEPORTES,TENIS"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.48" senseid="partido.2"/>
+<context>
+<previous>
+John Newcombe, capitán del equipo, ha informado de que Wayne Arthurs será el sustituto de Philippoussis, aunque es casi seguro que no será él quien juegue uno de los partidos individuales, sino Patrick Rafter.
+</previous>
+<target>
+Rafter, quien ya se ha recuperado de su lesión en un hombro, dijo que está listo para jugar los <head>partidos</head> individuales.
+</target>
+<following>
+Newcombe anunciará mañana la escuadra definitiva para enfrentarse a los alemanes
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.49" docsrc="efe_3550_2000/04/05">
+<cat scheme="ANPA" code="POL:POLITICA,PARLAMENTO"/>
+<cat scheme="IPTC" code="11000000"/>
+<answer instance="partido.n.49" senseid="partido.1"/>
+<context>
+<previous>
+La decisión de Mauritania fue muy criticada por varios países árabes, especialmente por Irak, país con el que Nuakchot rompió sus relaciones diplomáticas poco después, el 4 de noviembre del año pasado.
+</previous>
+<target>
+Los <head>partidos</head> mauritanos de oposición también condenaron la decisión del gobierno y convocaron a finales de octubre del año pasado varias manifestaciones de protesta en Nuakchot
+</target>
+<following>
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.50" docsrc="efe_5253_2000/04/07">
+<cat scheme="ANPA" code="POL:POLITICA,GOBIERNO"/>
+<cat scheme="IPTC" code="11000000"/>
+<answer instance="partido.n.50" senseid="partido.1"/>
+<context>
+<previous>
+</previous>
+<target>
+La capilla ardiente con los restos mortales del ex presidente tunecino Habib Burguiba quedó instalada hoy en la sede central del <head>partido</head> gubernamental de la Agrupación Constitucional Democrática (RCD), en lo alto de la medina de Túnez.
+</target>
+<following>
+El féretro llegó a Túnez procedente de Monastir, a 160 kilómetros de la capital del país, donde ayer falleció el que se considera como el "padre" de la independencia tunecina.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.51" docsrc="efe_5719_2000/04/07">
+<cat scheme="ANPA" code="DEP:DEPORTES,FUTBOL"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.51" senseid="partido.2"/>
+<context>
+<previous>
+</previous>
+<target>
+El Hamburgo continúa su persecución sobre el Bayer Leverkusen y el Bayern Múnich, al derrotar hoy por 1-0 al Hansa Rostock, en <head>partido</head> adelantado a la vigésima octava jornada de la Liga alemana de fútbol.
+</target>
+<following>
+El Hamburgo está ahora a un punto del Bayern y a tres del Leverkusen, si bien éstos todavía tienen que jugar sus respectivos encuentros.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.52" docsrc="efe_5923_2000/04/08">
+<cat scheme="ANPA" code="DEP:DEPORTES,BALONCESTO"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.52" senseid="partido.2"/>
+<context>
+<previous>
+</previous>
+<target>
+El Caja San Fernando afronta el <head>partido</head> de la trigésima segunda jornada de la Liga ACB con la intención de conseguir una victoria, lo que le aseguraría estar clasificado a la conclusión de la fase entre los cuatro primeros y disputar las eliminatorias por el título con el factor cancha a su favor.
+</target>
+<following>
+El equipo de Javier Imbroda se encontrará en Badalona con un Bruguer Joventut que a falta de tres jornadas para la conclusión de la fase ya ha perdido todas las opciones de estar clasificado entre los ocho primeros, por lo que la motivación del conjunto catalán no pasa por sus mejores momentos.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.53" docsrc="efe_7380_2000/04/10">
+<cat scheme="ANPA" code="DEP:DEPORTES,FUTBOL"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.53" senseid="partido.2"/>
+<context>
+<previous>
+El presidente del Leeds United, Peter Ridsdale, acusó hoy al equipo turco de Galatasaray de "falta de respeto" y "oportunismo" tras el asesinato de dos seguidores del equipo inglés el miércoles en Estambul, la víspera del partido de ida de las semifinales de la Copa de la UEFA.
+</previous>
+<target>
+Ridsdale ha prohibido la entrada de aficionados del Galatasaray para el <head>partido</head> de vuelta como medida de seguridad, y el equipo turco ha pedido que se celebre en campo neutral para poder contar con el apoyo de su hinchada.
+</target>
+<following>
+"Dos personas han sido asesinadas. He visto las heridas y no quiero volver a ver nada parecido en mi vida", dijo Ridsdale.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.54" docsrc="efe_7555_2000/04/10">
+<cat scheme="ANPA" code="POL:POLITICA,PARTIDOS"/>
+<cat scheme="ANPA" code="POL:POLITICA,REGIONES-AUTONOMIAS"/>
+<cat scheme="IPTC" code="11000000"/>
+<answer instance="partido.n.54" senseid="partido.1"/>
+<context>
+<previous>
+El lehendakari, Juan José Ibarretxe, anunció hoy que comparecerá mañana ante los medios de comunicación para dar a conocer el análisis que, sobre esta situación, efectuará el Consejo de Gobierno en su habitual reunión semanal.
+</previous>
+<target>
+El lehendakari solicitó el pasado sábado a través de sus colaboradores "calma" a los <head>partidos</head> ante el nuevo escenario político.
+</target>
+<following>
+Entre las formaciones nacionalistas, la única que hizo declaraciones fue la diputada de Eusko Alkartasuna Begoña Lasagabaster, quien consideró que la "delicada" situación del Gobierno Vasco ha sido originada por la "labor obstruccionista" en el Parlamento autonómico del PP, el PSE y EH.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.55" docsrc="efe_10411_2000/04/13">
+<cat scheme="ANPA" code="DEP:DEPORTES,FUTBOL"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.55" senseid="partido.2"/>
+<context>
+<previous>
+Julián Rubio, entrenador del Albacete Balompié, con vistas al choque del próximo domingo frente al Córdoba, podría sorprender al dar entrada en el once inicial al veterano Sala a tenor de lo visto en el partido-ensayo realizado hoy en el estadio Carlos Belmonte.
+</previous>
+<target>
+Sala, en el caso de jugar, retornaría después de no jugar, por decisión técnica, desde el 6 de febrero, en la jornada vigésima quinta, contra el Levante (2-0), partido en el que entró en el minuto 83 en sustitución de Geli y coincidió con su <head>partido</head> 500 como profesional.
+</target>
+<following>
+Las sorpresas podrían ampliarse, pues de ser fiel a lo hecho hoy el ariete Sabas podría jugar de salida, pero en una posición alejada de la suya natural, ya que como ocurrió en Compostela el técnico manchego probó al delantero madrileño como volante izquierdo.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.56" docsrc="efe_11023_2000/04/14">
+<cat scheme="ANPA" code="POL:POLITICA,GOBIERNO"/>
+<cat scheme="IPTC" code="11000000"/>
+<answer instance="partido.n.56" senseid="partido.1"/>
+<context>
+<previous>
+El Gobierno intentará ponerse de acuerdo sobre un candidato común después de que el Parlamento rechazara su propuesta para permitir la reelección de Demirel pero, según círculos políticos, las posibilidades de llegar a un consenso son bastante remotas.
+</previous>
+<target>
+El Partido de la Madre Patria (ANAP) parece decidido a nombrar a su líder, Mesut Yilmaz, como candidato presidencial, pero sus compañeros de coalición, la Izquierda Democrática (DSP) de Ecevit, y el Partido de Acción Nacional (MHP) del vice primer ministro Devlet Bahceli, se oponen a nombrar a un jefe de <head>partido</head>.
+</target>
+<following>
+El ministro de Trabajo, Yasar Okuyan, del ANAP, dijo que Yilmaz no ha anunciado todavía su candidatura, y subrayó que "lo que haga Yilmaz dependerá de las decisiones que tomen los líderes de la coalición en la reunión de hoy".
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.57" docsrc="efe_14032_2000/04/18">
+<cat scheme="ANPA" code="DEP:DEPORTES,FUTBOL"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.57" senseid="partido.2"/>
+<context>
+<previous>
+"Defendiendo bien también se ganan los partidos. Pero anticipar cómo se va a desarrollar el encuentro a priori no es fácil. Podríamos controlar el juego y perder. En la ida, por ejemplo, llevamos la iniciativa y no ganamos. Es una incógnita aventurar ahora mismo cómo va a discurrir el partido", señaló Del Bosque.
+</previous>
+<target>
+Sobre el estímulo extra que van a tener los jugadores por enfrentarse a un Manchester en un estadio que reúne todos los condicionantes ideales para jugar un <head>partido</head> de fútbol, Del Bosque explicó que toda la plantilla está muy motivada.
+</target>
+<following>
+Y al ser cuestionado sobre si era un día ideal para Raúl, que podría haberse dosificado para estar a tope mañana, Del Bosque fue tajante: "Este partido es un estímulo para Raúl y para todos. Raúl pelea siempre. Se vacía en todos sus compromisos. En Liga y en Europa", apostilló Del Bosque
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.58" docsrc="efe_15333_2000/04/20">
+<cat scheme="ANPA" code="DEP:DEPORTES,FUTBOL"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.58" senseid="partido.2"/>
+<context>
+<previous>
+Un grupo de hinchas del Lanús recibió hoy con una lluvia de flores al portero paraguayo José Luis Chilavert, del Vélez Sarsfield, en la reanudación de un partido de la Liga argentina de primera división que se había suspendido en marzo pasado.
+</previous>
+<target>
+El simpático recibimiento se produjo momentos antes de comenzar el <head>partido</head> entre el Lanús y el Vélez Sarsfield, de la quinta jornada del torneo Clausura, que había sido suspendido el pasado 12 de marzo cuando se llevaban jugados 35 segundos, a causa de un petardo arrojado por los hinchas locales.
+</target>
+<following>
+El artefacto explosivo cayó muy cerca de Chilavert, quien fue retirado del campo de juego visiblemente aturdido, lo que obligó al árbitro Sergio Pezzotta a suspender el partido.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.59" docsrc="efe_15430_2000/04/20">
+<cat scheme="ANPA" code="POL:POLITICA,PARTIDOS"/>
+<cat scheme="IPTC" code="11000000"/>
+<answer instance="partido.n.59" senseid="partido.1"/>
+<context>
+<previous>
+El alcalde de San Sebastián defendió la necesidad de superar "los frentes" desde la defensa "del diálogo y la distensión, el respeto escrupuloso de los derechos humanos, tanto desde la exigencia del respeto del derecho a la vida como del fin de la violencia callejera, un cambio en la política penitenciaria, y la aceptación de los principios democráticos del Estado de Derecho y las reglas de juego democráticas".
+</previous>
+<target>
+Elorza admitió que la contradicción existente entre la línea oficial de su <head>partido</head> y su posición "minoritaria" hace "insostenible" su presencia en la dirección del PSE/EE, al tiempo que dijo echar en falta "un debate en profundidad" para redefinir la estrategia de su formación y que ésta le permita "salir del bocadillo entre el nacionalismo y la derecha española".
+</target>
+<following>
+A su entender, la opinión pública comparte el principio de que, fuera de toda intimidación, "la voluntad democrática de los vascos libremente expresada será siempre respetada", por lo que "nadie debería excluir" la posibilidad de "una consulta popular".
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.60" docsrc="efe_17287_2000/04/24">
+<cat scheme="ANPA" code="ECO:ECONOMIA,SECTORES-EMPRESAS,-"/>
+<cat scheme="ANPA" code="ECO:ECONOMIA,MACROECONOMIA,FISCALIDAD"/>
+<cat scheme="IPTC" code="04000000"/>
+<answer instance="partido.n.60" senseid="partido.1"/>
+<context>
+<previous>
+Los chaebol emitieron la pasada semana un comunicado conjunto en el que exigían al gobierno que se hiciera a un lado y dejara de entrometerse en las reorganizaciones de estos grupos industriales.
+</previous>
+<target>
+Este mensaje, aireado pocos días después de que la oposición venciera al <head>partido</head> del presidente Kim Dae Jung en las elecciones parlamentarias del pasado día 13, causó una importante reacción entre los grupos cívicos, que exigen a las autoridades acabar con la excesiva concentración de poder en los chaebol.
+</target>
+<following>
+Entre los personajes que serán investigados estarán el hijo del presidente del grupo Samsung, el recién nombrado presidente del grupo Hyundai y el hijo-sucesor en la presidencia del grupo SK.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.61" docsrc="efe_18420_2000/04/25">
+<cat scheme="ANPA" code="TRI:JUSTICIA-INTERIOR-SUCESOS,JUSTICIA"/>
+<cat scheme="IPTC" code="02000000"/>
+<cat scheme="IPTC" code="03000000"/>
+<answer instance="partido.n.61" senseid="partido.1"/>
+<context>
+<previous>
+Pero la pretensión del magistrado español Baltasar Garzón de sentar en el banquillo de los acusados a Pinochet por genocidio, terrorismo y torturas se vio truncada por la decisión del ministro británico del Interior, Jack Straw, quien en consideración al estado de salud del ex gobernante, interrumpió el proceso de extradición.
+</previous>
+<target>
+Mientras tanto, en Chile se multiplicaron las querellas contra el ex dictador presentadas por los parientes de los desaparecidos y ejecutados, ex presos políticos, sindicalistas, colectivos profesionales y <head>partidos</head> políticos.
+</target>
+<following>
+A esta lista se sumaron recientemente el primer ciudadano extranjero, el médico ecuatoriano Alfonso García Franco, y el Partido Socialista de Chile, la formación en la que milita el presidente chileno, Ricardo Lagos.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.62" docsrc="efe_19884_2000/04/27">
+<cat scheme="ANPA" code="POL:POLITICA,PARLAMENTO"/>
+<cat scheme="IPTC" code="11000000"/>
+<answer instance="partido.n.62" senseid="partido.1"/>
+<context>
+<previous>
+A su juicio, con el modelo vigente "da la impresión, a veces, de que estamos en una almoneda donde se compra y se vende, se regatea y se consiguen dividendos a cambios de apoyos parlamentarios, pero España es algo más que un mercado de la aritmética el gobierno", recalcó.
+</previous>
+<target>
+Por otra parte, se refirió a su candidatura a la secretaría general del PSOE, sobre lo que señaló que "no deseo ser ningún problema para mi <head>partido</head> y no estaré si creo problemas, pero si puedo ayudar a resolver algún problema estaré en el puesto que sea, el primero o el último, esa es mi disposición".
+</target>
+<following>
+Agregó que su proyecto lo plantea "en primera persona del plural porque en el PSOE hay que acabar con el personalismo; el PSOE no tiene ombligo y, si lo tuviese, no soy yo", tras lo que afirmó que el objetivo es que en el 2004 haya en la Moncloa un presidente que sea "progresista" porque ocho años del Gobierno de la derecha "se nos van a antojar ocho siglos a la mitad de los españoles y a algunos más".
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.63" docsrc="efe_21975_2000/04/29">
+<cat scheme="ANPA" code="DEP:DEPORTES,BALONCESTO"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.63" senseid="partido.2"/>
+<context>
+<previous>
+El pívot Alonzo Mourning, que estuvo la mayoría del segundo tiempo sentado en el banquillo contribuyó con 12 puntos y nueve rebotes y el alero Jamal Mashburn, que no fue factor, logró 11 tantos.
+</previous>
+<target>
+"Weatherspoon surgió como el jugador decisivo del <head>partido</head> porque fue el que mejor estuvo a la hora de tirar a canasta y es algo que necesitábamos no sólo para este partido sino para el resto de la competición", destacó Riley.
+</target>
+<following>
+Los Pistons volvieron a demostrar que sin Hill su único jugador competitivo es el alero Jerry Stackhouse, que cada día incrementa más su cotización, y lo demostró al conseguir 25 puntos, que no fueron suficientes para darle a su equipo la posibilidad de mantenerse en la competición.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.64" docsrc="efe_1276_2000/05/03">
+<cat scheme="ANPA" code="DEP:DEPORTES,BALONCESTO"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.64" senseid="partido.2"/>
+<context>
+<previous>
+El escolta Hardaway, en su mejor momento de juego, y Rogers, en su línea de producción constante, aportaron 23 puntos cada uno para dejar a los Suns por primera vez en las semifinales de la Federación Oeste desde 1995 y convertir a los Spurs en el primer equipo campeón de liga que no repite título desde que fueron eliminados los Celtics de Boston en 1986.
+</previous>
+<target>
+"Me he sentido muy bien y como me dijeron los médicos he jugado en plenitud sin sentir ningún tipo de molestias o problemas físicos", declaró Kidd. "Ha sido muy emocionante el poder ayudar a mis compañeros en el cuarto <head>partido</head> para que estemos en las semifinales".
+</target>
+<following>
+Los Suns lograron un 46,3 por ciento en los tiros de campo, 63,2 desde la línea de personal y 25,0 en los triples (3 de 12), comparados al 37,0; 61,5 y sin ningún triple, respectivamente, para los Spurs.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.65" docsrc="efe_2450_2000/05/04">
+<cat scheme="ANPA" code="DEP:DEPORTES,FUTBOL"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.65" senseid="partido.2"/>
+<context>
+<previous>
+Quini, que llegó al CD Toledo la anterior temporada, procedente del Talavera CF, y a instancias del entonces técnico Gregorio Manzano, ahora en el Real Valladolid, ha anotado en la presente campaña solo tres goles, dos de penalti, cuando la campaña fue el máximo goleador del equipo con 16 dianas, cinco de pena máxima.
+</previous>
+<target>
+En la actual temporada solo ha disputado seis partidos completos, aunque ha participado en otros doce, cinco en la segunda vuelta, para un total de 1.135 minutos, cuando la pasada campaña disputó 15 <head>partidos</head> completos y otros tantos parciales para un total de 2.263 minutos, el séptimo de la plantilla que jugó más minutos.
+</target>
+<following>
+El año pasado recibió cinco cartulinas amarillas y en la presente campaña ha visto cuatro, dos en un mismo encuentro, ante el Lleida en la segunda vuelta, siendo expulsado en el minuto 40 de partido.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.66" docsrc="efe_4156_2000/05/06">
+<cat scheme="ANPA" code="TRI:JUSTICIA-INTERIOR-SUCESOS,TERRORISMO"/>
+<cat scheme="IPTC" code="02000000"/>
+<cat scheme="IPTC" code="03000000"/>
+<cat scheme="IPTC" code="16000000"/>
+<answer instance="partido.n.66" senseid="partido.1"/>
+<context>
+<previous>
+</previous>
+<target>
+El ministro británico para Irlanda del Norte, Peter Mandelson, calificó hoy de "muy positivo" el comunicado del Ejército Republicano Irlandés (IRA), y pidió a los <head>partidos</head> que lo estudien con "seriedad".
+</target>
+<following>
+Mandelson destacó en Belfast que la nota es "muy significativa" y ofrece la oportunidad de construir en Irlanda del Norte un futuro libre de violencia y armas.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.67" docsrc="efe_5580_2000/05/08">
+<cat scheme="ANPA" code="DEP:DEPORTES,BALONMANO"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.67" senseid="partido.2"/>
+<context>
+<previous>
+Los árbitros suecos Patrick Hakasson y Mats Nilson serán los encargados de dirigir el partido de ida de la final de la Recopa de Europa que disputarán, el sábado 20 de mayo, el Krasnodar y el Milar en la cancha del equipo ruso.
+</previous>
+<target>
+El primero de los <head>partidos</head> de esta final se disputará a las 15.00 horas (13.00 hora española), mientras que el encuentro de vuelta, que se jugará en el polideportivo municipal de L`Eliana, se disputará el domingo 28 de mayo a las 12.30 horas.
+</target>
+<following>
+Para este segundo partido la Federación Europea de Balonmano (EHF) también ha dado a conocer los árbitros, que serán los alemanes Frank Lemme y Bernd Ullrich
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.68" docsrc="efe_7717_2000/05/10">
+<cat scheme="ANPA" code="DEP:DEPORTES,BALONCESTO"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.68" senseid="partido.2"/>
+<context>
+<previous>
+Pepe Rodríguez, técnico del conjunto melillense, ya tiene decidido el cinco inicial que pondrá en liza ante los menorquines, que será el formado por el base Ron Rutland, el escolta Silva, el alero Paco Martín, el ala pívot David Doblas y el pívot Cedric Moore.
+</previous>
+<target>
+El entrenador del Melilla considera que su equipo está capacitado para pasar a semifinales, aunque la eliminatoria será "muy dura" a tenor de los encuentros disputados ante el Menorca en la fase regular, que se resolvieron a favor de su equipo en los últimos minutos de cada <head>partido</head>.
+</target>
+<following>
+Rodríguez aseguró que el Menorca Basquet llegará a Melilla con la moral muy alta tras sus tres victorias en octavos de final ante Los Barrios. "Es un equipo muy compensado, con un juego interior muy fuerte en el que destaca su pareja de extranjeros, Montgomery y Delany, y por fuera cuenta con grandes artilleros como el veterano Patricio Reynés o el alero Josep Pancreu", subrayó
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.69" docsrc="efe_8099_2000/05/11">
+<cat scheme="ANPA" code="POL:POLITICA,PARTIDOS"/>
+<cat scheme="IPTC" code="11000000"/>
+<answer instance="partido.n.69" senseid="partido.1"/>
+<context>
+<previous>
+</previous>
+<target>
+El portavoz del PP del País Vasco, Leopoldo Barreda, exigió hoy al PNV que "rediseñe" el proyecto político que aprobó en su Asamblea General, equivalente a un congreso en otro <head>partido</head>, el pasado mes de enero.
+</target>
+<following>
+En conferencia de prensa celebrada en Bilbao para presentar dos iniciativas legislativas, Barreda dijo que con el PNV no hay "un problema de estrategia, sino del proyecto político de fondo que pactó con ETA, excluyente, por la independencia, y que declaraba enemigos del pueblo vasco a los que no votan nacionalista".
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.70" docsrc="efe_11154_2000/05/15">
+<cat scheme="ANPA" code="DEP:DEPORTES,FUTBOL"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.70" senseid="partido.2"/>
+<context>
+<previous>
+Tantos decisivos para el Lazio en partidos importantes. En los que el equipo estaba sin las ideas claras ante la puerta rival, pero que se le pusieron muy favorables merced a la fuerza del "Cholo" (como se le conoce) que viniendo desde atrás sorprendió a los defensas rivales.
+</previous>
+<target>
+Al final ha conseguido una nada despreciable cifra de cinco tantos, que le sitúan tras Verón como el goleador más decisivo, pues han traído consigo 12 puntos. Es también el jugador lacial que durante la temporada liguera más veces a entrado durante los <head>partidos</head> para sustituir a compañeros, con 13 veces.
+</target>
+<following>
+Almeyda, por su parte, pese a perderse algunos partidos por lesión, ha sabido poner el "filtro" a los rivales, además de apoyar en todo instante la labor de organización de sus compañeros de zona. Su fuerza, faltas tácticas y entrega, hicieron "rocoso" en el centro del campo a un equipo ofensivo. Es el que más tarjetas amarillas ha recibido del Lazio (8).
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.71" docsrc="efe_11191_2000/05/15">
+<cat scheme="ANPA" code="POL:POLITICA,MUNICIPAL"/>
+<cat scheme="IPTC" code="11000000"/>
+<answer instance="partido.n.71" senseid="partido.1"/>
+<context>
+<previous>
+La moción ha prosperado con la abstención del Partido Independiente Valle del Guadiaro (PIVG) y los votos en contra de los siete concejales del PSOE y del único de IU, partidos que gobernaban en minoría desde que el pasado 20 de marzo los tres ediles del PP abandonaran el equipo de Gobierno tras la disolución del GIL.
+</previous>
+<target>
+La marcha de los tres concejales populares fue argumentada por la dirección provincial del <head>partido</head> en que el paso, días antes, de los seis concejales del GIL al Grupo Mixto "dejaba sin fundamento" el pacto suscrito entre las tres formaciones para evitar que el Grupo Independiente Liberal accediera a la alcaldía de San Roque, una localidad de unos 22.000 habitantes.
+</target>
+<following>
+El nuevo alcalde, que recibió el bastón de mando abucheado por medio centenar de vecinos que se agolpaban en el salón de plenos del Ayuntamiento, y ovacionado por otros tantos, achacó la moción de censura a "decisiones políticas y no personales".
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.72" docsrc="efe_11488_2000/05/15">
+<cat scheme="ANPA" code="POL:POLITICA,GOBIERNO"/>
+<cat scheme="IPTC" code="11000000"/>
+<answer instance="partido.n.72" senseid="partido.1"/>
+<context>
+<previous>
+Humberto de la Calle anunció que el Gobierno tomó la decisión de adelantarse a esta eventual negativa e iniciar un proceso de reflexión y de diálogo "con la mente amplia" sobre el texto de referéndum para mejorarlo.
+</previous>
+<target>
+En cuanto a los demás elementos del referéndum, agregó que el Ejecutivo tiene la intención de mantener la esencia: temas electorales, lista única, cifra repartidora, voto obligatorio, inhabilitación perpetua, fortalecimiento de la pérdida de investidura, régimen interno de los <head>partidos</head>, transparencia en la financiación de las campañas.
+</target>
+<following>
+El ministro del Interior reveló que tiene previsto entrevistarse en breve con Serpa y con la también ex candidata presidencial Noemí Sanín, así como con los integrantes del nuevo directorio conservador, con el líder sindical Luis Eduardo Garzón, con los movimientos de tipo social y con los congresistas.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.73" docsrc="efe_15720_2000/05/20">
+<cat scheme="ANPA" code="DEP:DEPORTES,FUTBOL"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.73" senseid="partido.2"/>
+<context>
+<previous>
+Mañana, sábado, el líder del torneo, el Nacional, jugará a domicilio en Paysandú, con el equipo local en el segundo encuentro adelantado de la jornada.
+</previous>
+<target>
+El domingo próximo se completará el calendario de la jornada con los <head>partidos</head> Tacuarembó-Bella Vista, Danubio-Maldonado, Frontera- Liverpool, Rocha-Rentistas, Villa Española-Huracán Buceo, Juventud- Peñarol y Racing-Defensor.
+</target>
+<following>
+- Clasificación:
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.74" docsrc="efe_16468_2000/05/21">
+<cat scheme="ANPA" code="POL:POLITICA,PARTIDOS"/>
+<cat scheme="IPTC" code="11000000"/>
+<answer instance="partido.n.74" senseid="partido.1"/>
+<context>
+<previous>
+El secretario general del CDC, Pere Esteve, ha asegurado hoy que no se presentará a la reelección en el cargo, porque cree que el que ocupa debe ser "para el número dos" (del partido) y apostilló que su candidato es Artur Mas.
+</previous>
+<target>
+El secretario general de CDC, Pere Esteve, ha anunciado hoy a la ejecutiva y al consejo nacional de su partido que no optará a la reelección para que Artur Mas asuma esa responsabilidad y sea el número dos de CDC, tras Jordi Pujol, lo que le situaría como líder del <head>partido</head> en el futuro.
+</target>
+<following>
+La decisión, que, a su juicio, demuestra la sintonía políticacon Mas ante el congreso del partido previsto para el mes de noviembre, favorece las opciones del portavoz del gobierno catalán y conseller de Economía en la "pugna" que mantiene con el lider de UDC, Josep Antoni Duran i LLeida, por la sucesión de Jordi Pujol en el seno de CiU.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.75" docsrc="efe_22148_2000/05/27">
+<cat scheme="ANPA" code="SOC:SOCIEDAD-SALUD,SOCIEDAD"/>
+<cat scheme="IPTC" code="07000000"/>
+<cat scheme="IPTC" code="14000000"/>
+<answer instance="partido.n.75" senseid="partido.1"/>
+<context>
+<previous>
+Esta presencia de mujeres se debe, en su opinión, a que la sociedad exige esos cambios y "es muy importante que podamos permitir y, a su vez, exigir que las mujeres no se vean obligadas a hacer un proceso de transformación para ser aceptadas en la sociedad masculina, sino impregnar la estructura política de planteamientos femeninos".
+</previous>
+<target>
+Para Carmena, las cuotas en los <head>partidos</head> políticos son positivas como sistemas de promoción y de igualdad, aunque en la práctica sea necesario algún tipo de concreción o de corrección.
+</target>
+<following>
+Las jornadas "Mujer y Sociedad" pretenden reivindicar la dignidad de la condición femenina y eliminar las desigualdades que existen en el ámbito social y laboral, de ahí que en las distintas sesiones de trabajo diversos especialistas traten materias relacionadas con la salud, la educación, la justicia, o la violencia doméstica
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.76" docsrc="efe_24454_2000/05/30">
+<cat scheme="ANPA" code="DEP:DEPORTES,FUTBOL"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.76" senseid="partido.2"/>
+<context>
+<previous>
+Lahore dejó claro que el estadio no se venderá salvo que las generaciones venideras decidan lo contrario y que el consejo de administración, que planteó en la última junta general la firma del convenio de uso con el Estadio Olímpico para jugar algunos partidos en él si no se obtenía liquidez, "nunca ha hablado de venderlo".
+</previous>
+<target>
+El club abrió la semana pasada un plazo hasta el 9 de junio para que los aficionados puedan aportar dinero mediante un préstamo con garantía real de hasta 3.000 millones de pesetas para afrontar las deudas más urgentes, como aprobó la junta de accionistas para eludir el tener que jugar <head>partidos</head> en el Olímpico desde la próxima campaña.
+</target>
+<following>
+El vicepresidente del Sevilla consideró que cumplir ese objetivo "va a ser difícil y complicado", ya que se necesita mucho dinero y hasta ahora han sido muy escasas las aportaciones hechas por el sevillismo en la primera semana de suscripción a dicho préstamo.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.77" docsrc="efe_24495_2000/05/30">
+<cat scheme="ANPA" code="POL:POLITICA,CONFLICTO"/>
+<cat scheme="IPTC" code="16000000"/>
+<answer instance="partido.n.77" senseid="partido.1"/>
+<context>
+<previous>
+El radical Partido Democrático Unionista del Ulster (DUP), contrario al acuerdo de paz de Viernes Santo del 10 de abril de 1998, decidirá esta noche si se incorpora o no al Gobierno de poder compartido en Irlanda del Norte.
+</previous>
+<target>
+En declaraciones a la prensa, el diputado del DUP Peter Robinson no ha querido adelantar si su <head>partido</head> ocupará los dos escaños que le corresponden en el Ejecutivo de la provincia, restablecido la pasada medianoche.
+</target>
+<following>
+Londres suspendió el Gobierno compartido en Irlanda del Norte el pasado 11 de febrero para evitar que el Partido Unionista del Ulster (UUP, mayoritario entre la comunidad protestante norirlandesa) lo abandonara debido a que el Ejército Republicano Irlandés (IRA) no había empezado a desarmarse.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.78" docsrc="efe_2422_2000/06/04">
+<cat scheme="ANPA" code="DEP:DEPORTES,BEISBOL"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.78" senseid="partido.2"/>
+<context>
+<previous>
+Después de dos "outs" en la octava, Mike Lowell y Kevin Millar dispararon sendos cuadrangulares para que los Marlins de Florida vencieran por 2-1 a los Azulejos de Toronto.
+</previous>
+<target>
+El <head>partido</head> se destacó por el duelo de picheo de los abridores Chris Carpenter, de los Azulejos, y Ryan Dempster de los locales.
+</target>
+<following>
+Carpenter colgó siete ceros antes de ser relevado por Billy Koch (3-1), que retiró a los primeros dos hombres en el octavo para luego servir los ofrecimientos a Lowell (8) y Millar (7) que dio la derrota al equipo canadiense.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.79" docsrc="efe_4140_2000/06/06">
+<cat scheme="ANPA" code="TRI:JUSTICIA-INTERIOR-SUCESOS,TERRORISMO"/>
+<cat scheme="ANPA" code="POL:POLITICA,PARTIDOS"/>
+<cat scheme="IPTC" code="02000000"/>
+<cat scheme="IPTC" code="03000000"/>
+<cat scheme="IPTC" code="11000000"/>
+<cat scheme="IPTC" code="16000000"/>
+<answer instance="partido.n.79" senseid="partido.1"/>
+<context>
+<previous>
+</previous>
+<target>
+El vicesecretario general de Unidad Alavesa y ex concejal del Ayuntamiento de Vitoria, Francisco Probanza, ha decidido abandonar Euskadi al figurar en varios documentos requisados a ETA, algunos de ellos recientes, confirmaron hoy fuentes de este <head>partido</head>.
+</target>
+<following>
+Probanza, concejal en la pasada legislatura, aparecía en la documentación incautada por la Policía al comando "Basurde" de ETA que tenía previsto asesinarle, ya que contaba con información detallada sobre él.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.80" docsrc="efe_5366_2000/06/07">
+<cat scheme="ANPA" code="TRI:JUSTICIA-INTERIOR-SUCESOS,JUSTICIA"/>
+<cat scheme="IPTC" code="02000000"/>
+<cat scheme="IPTC" code="03000000"/>
+<answer instance="partido.n.80" senseid="partido.1"/>
+<context>
+<previous>
+Pujades ha explicado que el sacerdote gerundense "trabajó durante la huelga gremial previa al golpe de Estado, y no sólo no participó, sino que descontó los días de huelga a los trabajadores que sí la siguieron".
+</previous>
+<target>
+"Además -ha agregado Pujades-, todo el mundo sabía que era simpatizante de la Unidad Popular, aunque nunca se afilió a un <head>partido</head> político".
+</target>
+<following>
+Según el relato del biógrafo, Joan Alsina fue a trabajar el martes 19 de septiembre, y hacia las dos de la tarde fue detenido y conducido al internado Barros Arana, que era utilizado como lugar provisional de reclusión.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.81" docsrc="efe_6503_2000/06/08">
+<cat scheme="ANPA" code="DEP:DEPORTES,FUTBOL"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.81" senseid="partido.2"/>
+<context>
+<previous>
+El seleccionador Erich Ribbeck ha querido tranquilizar a la afición ante los temores de que la defensa germana sea la línea más endeble.
+</previous>
+<target>
+"Todo lo que sé es que el lunes saltaremos al campo con 11 jugadores", comentó Ribbeck al llegar a Holanda con respecto a su debut ante Rumanía en Lieja en <head>partido</head> correspondiente al grupo A.
+</target>
+<following>
+Vaals, la pequeña localidad elegida como cuartel general de los alemanes, está enclavada en el triángulo que forman las fronteras entre Bélgica, Holanda y Alemania. 
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.82" docsrc="efe_9501_2000/06/12">
+<cat scheme="ANPA" code="DEP:DEPORTES,FUTBOL"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.82" senseid="partido.2"/>
+<context>
+<previous>
+Mondragón tiene contrato con el equipo argentino hasta que finalice el actual torneo Clausura, del que faltan disputarse cinco jornadas.
+</previous>
+<target>
+El futbolista jugará con el Independiente el viernes ante el Instituto de Córdoba el <head>partido</head> adelantado de la decimocuarta jornada y los dirigentes del club local presumen que podría ser su último encuentro en Argentina antes de incorporarse al Metz.
+</target>
+<following>
+El técnico del equipo francés, Joel Muller, había impuesto como condición del fichaje de Mondragón que se incorporase a la plantilla antes de finales de este mes, debido a que tiene previsto comenzar la pretemporada el día 23 próximo.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.83" docsrc="efe_10738_2000/06/14">
+<cat scheme="ANPA" code="DEP:DEPORTES,POLIDEPORTIVO"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.83" senseid="partido.2"/>
+<context>
+<previous>
+3-3. EL ORGULLO RESCATA A YUGOSLAVIA DEL DESASTRE
+</previous>
+<target>
+Charleroi (Bélgica), (EFE).- El orgullo y el amor propio de Yugoslavia le permitió salvarse del desastre en el duelo balcánico de la Eurocopa (3-3), un <head>partido</head> en toda la extensión de la palabra en el que Eslovenia, debutante en estas lides, acusó su falta de experiencia, y desperdició en seis minutos una ventaja de 3-0. (DH0110)
+</target>
+<following>
+FUTBOL-BRASIL
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.84" docsrc="efe_11939_2000/06/15">
+<cat scheme="ANPA" code="DEP:DEPORTES,FUTBOL"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.84" senseid="partido.2"/>
+<context>
+<previous>
+El centrocampista del Juventus, con su gran visión de juego y su facilidad para manejar el balón, aspira a reeditar el éxito personal y colectivo que ya tuvo en el Mundial de Francia.
+</previous>
+<target>
+Junto con estos tres jugadores y el citado Rui Costa, pocos jugadores más han destacado en una Eurocopa con un pobre, en general, nivel de fútbol y en la que algunos de los grandes han causado una pobre impresión en sus primeros <head>partidos</head>, como Holanda (pese a ganar a la República Checa), España, Inglaterra y Alemania.
+</target>
+<following>
+Si cabe, puede citarse la agresividad y velocidad endiablada del belga de origen africano Emile Mpenza y algunos detalles técnicos del veteranísimo rumano Gica Hagi (35 años).
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.85" docsrc="efe_14074_2000/06/17">
+<cat scheme="ANPA" code="DEP:DEPORTES,VOLEIBOL"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.85" senseid="partido.2"/>
+<context>
+<previous>
+</previous>
+<target>
+La selección argentina, en su debut en el preolímpico femenino de voleibol, se mostró como un temible adversario en el <head>partido</head> ante Japón, equipo anfitrión del torneo (1-3), al que hizo sufrir hasta el último set antes de ceder el triunfo.
+</target>
+<following>
+Las jugadoras que entrena Claudio Cuello no decepcionaron en su primer importante compromiso. Antes nueve mil apasionados seguidores nipones, el conjunto argentino luchó cada punto y, sólo la mayor experiencia internacional de sus adversarias le privó de un mejor resultado.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.86" docsrc="efe_17088_2000/06/21">
+<cat scheme="ANPA" code="POL:POLITICA,PARTIDOS"/>
+<cat scheme="IPTC" code="11000000"/>
+<answer instance="partido.n.86" senseid="partido.1"/>
+<context>
+<previous>
+El alcalde de León y presidente provincial del PP, Mario Amilivia, calificó hoy como "acertada" la decisión de la Junta Directiva Nacional del PP de decretar incompatibles los cargos de alcalde o presidente de Diputación que también sean senadores con el de presidente provincial del partido.
+</previous>
+<target>
+Amilivia compareció hoy en conferencia de prensa para comentar el resultado de la reunión que mantuvo ayer en Madrid con el secretario general del PP, Javier Arenas, dentro de la ronda de conversaciones que éste mantiene estos días con todos los presidentes provinciales y regionales del <head>partido</head>.
+</target>
+<following>
+El alcalde de León comunicó personalmente a Javier Arenas que está a "plena disposición" del partido y que no se presentará a la reelección como presidente provincial, tal y como anunció la pasada semana.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.87" docsrc="efe_17683_2000/06/22">
+<cat scheme="ANPA" code="DEP:DEPORTES,FUTBOL"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.87" senseid="partido.2"/>
+<context>
+<previous>
+"Hemos cumplido como debíamos. Vinimos a salir campeones y lo hicimos. Merecíamos ganar y ganamos", declaró Bianchi en medio del terreno del estadio Morumbi apenas terminó el encuentro.
+</previous>
+<target>
+El técnico, que ya había ganado la Copa Libertadores en 1994 al frente del Vélez Sarsfield, afirmó que el gran mérito de su equipo hoy fue "haber venido a jugar de igual a igual y sin complejos", tras haber empatado 2-2 el <head>partido</head> de ida, disputado la semana pasada en Buenos Aires.
+</target>
+<following>
+Bianchi no olvidó la presencia en las tribunas del ex futbolista argentino Diego Armando Maradona y le envió un mensaje desde el césped paulista.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.88" docsrc="efe_20467_2000/06/25">
+<cat scheme="ANPA" code="POL:POLITICA,EXTERIOR"/>
+<cat scheme="IPTC" code="11000000"/>
+<answer instance="partido.n.88" senseid="partido.1"/>
+<context>
+<previous>
+El PD apuntaba en sus previsiones más optimistas a 150 escaños con un programa que optaba por una urgente reforma fiscal y apostaba por candidatos jóvenes.
+</previous>
+<target>
+Otros dos <head>partidos</head> de la oposición que ganaron terreno fueron el Liberal (PL) de Ichiro Ozawa que con su mensaje de "cambio" pasa de 18 a 22 asientos y el Socialista de Takako Doi, que logró un meritorio avance al pasar de 14 a 19 escaños
+</target>
+<following>
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.89" docsrc="efe_21868_2000/06/27">
+<cat scheme="ANPA" code="DEP:DEPORTES,FUTBOL"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.89" senseid="partido.2"/>
+<context>
+<previous>
+</previous>
+<target>
+Frank Rijkaard, técnico de la selección holandesa de fútbol, advirtió hoy que la semifinal de la Eurocopa contra Italia será muy distinta al <head>partido</head> de cuartos contra Yugoslavia, en el que su equipo venció por 6-1, y señaló que será muy complicado repetir una goleada similar.
+</target>
+<following>
+Rijkaard quiere frenar la euforia existente en Holanda por el poderío de su próximo rival. "Italia es totalmente diferente a Yugoslavia", destacó el técnico.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.90" docsrc="efe_2485_2000/07/04">
+<cat scheme="ANPA" code="DEP:DEPORTES,FUTBOL"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.90" senseid="partido.2"/>
+<context>
+<previous>
+Lapuente si contará con el defensa Rafael Márquez, del Mónaco de Francia, quien hoy se incorporó al equipo para estar en los dos primeros partidos de la eliminatoria, contra Panamá el 16 de julio, y contra Trinidad y Tobago, el 22 de julio, ambos como visitante.
+</previous>
+<target>
+Para Venezuela, que dirige el argentino José Omar Pastoriza, también le servirá el <head>partido</head> ante México más allá de las prisas para organizarlo, porque le permitirá ver a su plantel antes de que se enfrenten a Uruguay, su próximo rival en la eliminatoria mundialista de Suramérica
+</target>
+<following>
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.91" docsrc="efe_9155_2000/07/12">
+<cat scheme="ANPA" code="DEP:DEPORTES,FUTBOL"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.91" senseid="partido.2"/>
+<context>
+<previous>
+</previous>
+<target>
+El técnico de la selección colombiana de fútbol, Luis Augusto García, no ha podido resolver el dilema sobre quién, entre Jorge Bermúdez del Boca Juniors o Mario Yepes del River Plate de Argentina, se quedará en el banco de suplentes en el <head>partido</head> contra Perú el próximo 19 de julio en Lima.
+</target>
+<following>
+Para dicho compromiso, el quinto de Colombia en las eliminatorias suramericanas para el mundial del 2002, García ha confirmado como titular en la zaga a Iván Córdoba, del Inter de Italia, quien dijo que no jugará como lateral izquierdo para que el seleccionado cafetero pueda actuar con cuatro defensores sin sacrificar a Bermúdez ni a Yepes.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.92" docsrc="efe_13004_2000/07/17">
+<cat scheme="ANPA" code="POL:POLITICA,GOBIERNO"/>
+<cat scheme="IPTC" code="11000000"/>
+<answer instance="partido.n.92" senseid="partido.1"/>
+<context>
+<previous>
+"Preferimos los labradores de futuro a los que alumbran caminos trillados", comentó, en respuesta a las afirmaciones de Chirac, la ministra de Justicia, la socialista Elisabeth Guigou, quien es candidata a la Alcaldía de Aviñón en las Municipales del 2001.
+</previous>
+<target>
+Por otra parte, Jospin criticó, sin nombrarlo, a la federación parisiense del <head>partido</head> neogaullista Reagrupamiento por la República (RPR), que fundara Chirac hace casi un cuarto de siglo.
+</target>
+<following>
+Los grandes partidos políticos tienen un papel "indispensable" cuando "no están desgarrados por querellas fratricidas" y cuando son capaces de tener "proyectos", dijo el político socialista, en una clara referencia a las disputas internas del RPP en París
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.93" docsrc="efe_13074_2000/07/17">
+<cat scheme="ANPA" code="DEP:DEPORTES,FUTBOL"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.93" senseid="partido.2"/>
+<context>
+<previous>
+El chico, procedente de una familia de clase media uruguaya que apuesta primero a su formación académica que a su éxito futbolístico, deslumbró a los representantes del Gremio con su depurado repertorio técnico, aliado a un sorprendente olfato goleador, explicó la fuente.
+</previous>
+<target>
+Atraído por los comentarios de hinchas del Gremio en Rivera, Verardi viajó ayer, domingo, a la ciudad fronteriza para observarle en acción durante un <head>partido</head> del equipo de su colegio, el Sarandí Universitario.
+</target>
+<following>
+El conjunto de Scorza se impuso por 16-1 y media docena de goles tuvieron el sello del habilidoso creador, que juega con el número diez a la espalda y, a pesar de sus modales tímidos y conservadores, es un activo peligro desde la izquierda.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.94" docsrc="efe_17795_2000/07/23">
+<cat scheme="ANPA" code="POL:POLITICA,PARTIDOS"/>
+<cat scheme="IPTC" code="11000000"/>
+<answer instance="partido.n.94" senseid="partido.1"/>
+<context>
+<previous>
+Dominada por caras nuevas y con nueve puestos menos que la anterior, en la nueva Ejecutiva se repite tan solo un nombre de la elegida en 1997, la diputada Micaela Navarro, mientras que desaparecen los representantes de los tradicionales sectores "guerristas" (por Alfonso Guerra) o "renovadores" y casi todas las anteriores figuras del PSOE de Felipe González.
+</previous>
+<target>
+Solo permanece Manuel Chaves, que tras haber dirigido la gestora que se ha hecho cargo del <head>partido</head> durante la crisis abierta tras la dimisión de Joaquín Almunia, ocupará ahora la Presidencia del PSOE, vacante desde la muerte del histórico dirigente Ramón Rubial.
+</target>
+<following>
+Estrechos colaboradores de Rodríguez Zapatero ocupan los puestos claves de la nueva dirección, como la Secretaria de Organización y Acción Electoral, que es para el diputado José Blanco, o la de Política Económica, para Jordi Sevilla, uno de los autores del programa de "Nueva Vía".
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.95" docsrc="efe_23523_2000/07/30">
+<cat scheme="ANPA" code="DEP:DEPORTES,FUTBOL"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.95" senseid="partido.2"/>
+<context>
+<previous>
+Bolivia se enfrentará el próximo 16 de agosto a Ecuador en la séptima jornada de la eliminatoria mundialista, partido para el que se preparará en la ciudad de La Paz.
+</previous>
+<target>
+Castedo explicó que no tienen ninguna intención de cambiar la sede de la eliminatoria mundialista y aseguró que los <head>partidos</head> de local se jugarán en el estadio Hernando Siles de esta ciudad, ubicada a más de 3.600 metros de altitud sobre el nivel del mar.
+</target>
+<following>
+Según el cronograma aprobado a principio de temporada, la plantilla boliviana se concentrará en La Paz desde el próximo 7 de agosto para disputar el partido con Ecuador el 16 de este mes
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.96" docsrc="efe_24255_2000/07/31">
+<cat scheme="ANPA" code="POL:POLITICA,PARTIDOS"/>
+<cat scheme="ANPA" code="SOC:SOCIEDAD-SALUD,SOLIDARIDAD-DERECHOS"/>
+<cat scheme="IPTC" code="07000000"/>
+<cat scheme="IPTC" code="11000000"/>
+<cat scheme="IPTC" code="14000000"/>
+<answer instance="partido.n.96" senseid="partido.1"/>
+<context>
+<previous>
+Los trabajos de este grupo, que dirige el nuevo portavoz del grupo Parlamentario Socialista, Jesús Caldera, desembocarán en un plan integral "cargado de contenido", en el que se "ofrecerá" al Gobierno las líneas fundamentales para crear un "gran Pacto de Estado" de inmigración, señalaron a Efe fuentes socialistas.
+</previous>
+<target>
+En este Pacto de Estado deberán estar implicados <head>partidos</head> políticos, gobiernos, sindicatos y agentes sociales y económicos.
+</target>
+<following>
+Las mismas fuentes insistieron en la necesidad de constituir este Pacto de Estado y de no reducir la inmigración a la reforma de la Ley de Extranjería propuesta por el Gobierno, ya que ésta "no es suficiente" para resolver el problema y es, además, una "estrategia equivocada".
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.97" docsrc="efe_852_2000/08/02">
+<cat scheme="ANPA" code="POL:POLITICA,ELECCIONES"/>
+<cat scheme="IPTC" code="11000000"/>
+<answer instance="partido.n.97" senseid="partido.1"/>
+<context>
+<previous>
+Para McCain, Bush "es ahora la persona que mejor representa las mejores esperanzas para el futuro" de los Estados Unidos y vaticinó que se convertirá en el próximo presidente de este país en noviembre próximo.
+</previous>
+<target>
+En el mensaje principal de la sesión de esta noche de la convención presidencial republicana en Filadelfia, McCain advirtió de que su <head>partido</head> debe eludir "el aislacionismo y el proteccionismo".
+</target>
+<following>
+"No podemos construir murallas contra el éxito global de nuestros intereses y valores. Las murallas son para los cobardes", aseguró McCain, quién llegó a amenazar la candidatura presidencial de Bush durante las primarias republicanas de principios de año.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.98" docsrc="efe_1427_2000/08/02">
+<cat scheme="ANPA" code="DEP:DEPORTES,FUTBOL"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.98" senseid="partido.2"/>
+<context>
+<previous>
+El directivo dijo que la decisión fue tomada tras comprobar que el pasado sábado, varios integrantes del grupo de hinchas organizados en la "Ultra" agredieron a una familia, y que cerca de un centenar de ellos, golpearon a un seguidor del Alajuelense y cometieron actos de vandalismo y el robo de joyas y dinero.
+</previous>
+<target>
+El pasado domingo, durante un <head>partido</head> disputado ante Puntarenas, y en el que el Saprissa cayó dos goles a cero, miembros de la "Ultra" protagonizaron una trifulca en el estadio de Puntarenas, a 115 kilómetros de la capital, y que dejó varios heridos y lesionados.
+</target>
+<following>
+Méndez reconoció que la "Ultra", creada en 1995 como un grupo oficial de apoyo al Club, "se nos salió de las manos, por lo que tenemos que ser radicales en la decisión de eliminarla".
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.99" docsrc="efe_2437_2000/08/04">
+<cat scheme="ANPA" code="POL:POLITICA,ELECCIONES,PRESIDENCIALES"/>
+<cat scheme="IPTC" code="11000000"/>
+<answer instance="partido.n.99" senseid="partido.1"/>
+<context>
+<previous>
+Anteriormente, los 2.066 delegados a la convención presidencial republicana de Filadelfia proclamaron por unanimidad la candidatura a la Casa Blanca de Bush.
+</previous>
+<target>
+La proclamación de Bush como candidato presidencial republicano esta noche constituyó una mera formalidad por cuanto anoche había superado el mínimo de 1.043 delegados necesarios para representar al <head>partido</head> en las elecciones de noviembre
+</target>
+<following>
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.100" docsrc="efe_4750_2000/08/07">
+<cat scheme="ANPA" code="POL"/>
+<cat scheme="IPTC" code="11000000"/>
+<answer instance="partido.n.100" senseid="partido.1"/>
+<context>
+<previous>
+</previous>
+<target>
+El Movimiento V República (MVR), <head>partido</head> del presidente Hugo Chávez, indicó hoy que ha establecido cinco áreas prioritarias sobre las que deberá trabajar la recién elegida Asamblea Nacional (AN), entre ellas las de seguridad y empleo.
+</target>
+<following>
+Luis Miquilena, presidente de la Comisión Legislativa Nacional (CLN) y director del MVR, dijo que los otros tres sectores que requieren de leyes con carácter urgente son el de la seguridad social, el de la economía y el de la alimentación.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.101" docsrc="efe_9531_2000/08/14">
+<cat scheme="ANPA" code="DEP:DEPORTES,FUTBOL"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.101" senseid="partido.2"/>
+<context>
+<previous>
+</previous>
+<target>
+El <head>partido</head> entre Ecuador y Bolivia, que se disputará el próximo miércoles en Quito correspondiente a la séptima jornada de las eliminatorias del Mundial de Japón-Corea`2002, está demostrando muy poco interés entre los aficionados según se pudo comprobar hoy en el primer día de venta de entradas, indicó el jefe de la taquilla Marcelo Valencia.
+</target>
+<following>
+"Poco a sido el interés puesto de manifiesto por los aficionados para adquirir las entradas en el primer día de ventas, pero ojalá que en los dos días que restan se incremente el entusiasmo", dijo Valencia a los periodistas locales.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.102" docsrc="efe_11154_2000/08/17">
+<cat scheme="ANPA" code="SOC:SOCIEDAD-SALUD,SOCIEDAD"/>
+<cat scheme="IPTC" code="07000000"/>
+<cat scheme="IPTC" code="14000000"/>
+<answer instance="partido.n.102" senseid="partido.1"/>
+<context>
+<previous>
+La secretaria de Relaciones con las ONG y Movimientos Sociales del PSOE, Leire Pajín, aseguró hoy a Efe que su partido pondrá un gran esfuerzo en trabajar conjuntamente con las organizaciones sociales, pero no se tratará, precisó, de "captar" a las ONG para su causa, sino de confiar en su proyecto".
+</previous>
+<target>
+Pajín, que cumplirá 24 años en septiembre y es la diputada más joven del Congreso, señaló que las ONG son fruto de los nuevos tiempos y han creado "espacios" donde ni la sociedad ni los <head>partidos</head> "han podido llegar".
+</target>
+<following>
+En ese sentido, reconoció que "es verdad" que el PSOE "llevaba tiempo distanciado de la sociedad", una dinámica, dijo, que se tiene que romper para "escuchar más a la gente y menos a nosotros".
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.103" docsrc="efe_13577_2000/08/21">
+<cat scheme="ANPA" code="DEP:DEPORTES,FUTBOL"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.103" senseid="partido.2"/>
+<context>
+<previous>
+</previous>
+<target>
+El Liverpool visita hoy lunes al Arsenal en busca del liderato provisional en <head>partido</head> adelantado de la segunda jornada de la liga inglesa cuando hace apenas 48 horas que venció al Bradford City por un gol a cero en su estadio de Anfield Road.
+</target>
+<following>
+El compromiso adquirido con la televisión hace que este encuentro se dispute, cuando ambos equipos apenas han descansado, aunque el resto de conjuntos deberán también afrontar una semana repleta de competición ya que entre el martes y miércoles se completará la segunda jornada y en el fin de semana se jugará la tercera.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.104" docsrc="efe_14947_2000/08/23">
+<cat scheme="ANPA" code="POL:POLITICA,PARTIDOS"/>
+<cat scheme="IPTC" code="11000000"/>
+<answer instance="partido.n.104" senseid="partido.1"/>
+<context>
+<previous>
+El dirigente socialista Jesús Caldera aseguró hoy que, aunque en el PNV "hay movimientos", algunos de sus dirigentes, como su portavoz Joseba Egibar, con sus declaraciones, "viene a ratificar que es un poco el guardián de la ortodoxia".
+</previous>
+<target>
+Caldera, en declaraciones a la Cadena Ser, se refirió así a las manifestaciones de Egibar, quien dijo ayer que las bases fundamentales para la constitución de un foro de <head>partidos</head> deben ser "el respeto a todos los derechos humanos y a lo que la sociedad vasca pueda decidir libre y democráticamente".
+</target>
+<following>
+El dirigente socialista señaló que Egibar "intenta tapar las vías de agua que se abren en el barco de Estella, que se está hundiendo".
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.105" docsrc="efe_16564_2000/08/25">
+<cat scheme="ANPA" code="DEP:DEPORTES,FUTBOL"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.105" senseid="partido.2"/>
+<context>
+<previous>
+Además del triunfo, el conjunto barcelonista dio una impresión aceptable, aunque en contadas ocasiones, pues al buen juego desarrollado en la primera media hora, le continuó un periodo no tan vistoso y una segunda parte realmente preocupante, después de que Serra Ferrer llevase a cabo seis cambios.
+</previous>
+<target>
+En los seis <head>partidos</head> disputados (victorias contra el WHC, 0-14; Quick 1890, 0-10; Arsenal, 1-2; NEC Nimega, 2-5; y PSV, 2-1; y un empate contra el Lazio, 3-3), el Barcelona ha marcado 56 goles, en los que Dani se ha destacado en el máximo goleador, con siete tantos.
+</target>
+<following>
+Serra Ferrer ha convocado a 19 jugadores para el partido de mañana, entre los que sólo han quedado descartados los lesionados Luis Enrique, Emmanuel Petit y Marc Overmars, además de los descartados por el técnico Jari Litmanen, Winston Bogarde y Samuel Okunowo.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.106" docsrc="efe_18913_2000/08/29">
+<cat scheme="ANPA" code="TRI:JUSTICIA-INTERIOR-SUCESOS,TERRORISMO POL:POLITICA,REGIONES-AUTONOMIAS"/>
+<cat scheme="IPTC" code="02000000"/>
+<cat scheme="IPTC" code="03000000"/>
+<cat scheme="IPTC" code="16000000"/>
+<answer instance="partido.n.106" senseid="partido.1"/>
+<context>
+<previous>
+</previous>
+<target>
+El presidente de Castilla y León y del PP regional, Juan José Lucas, insistió hoy en que no se "debe caer en el desánimo" ante el asesinato que terminó con la vida del concejal de su <head>partido</head> en Zumárraga Manuel Indiano, y apostó por la vía del Estado de Derecho frente a las "pistolas".
+</target>
+<following>
+Lucas, en declaraciones a Efe, señaló que con este atentado "ha muerto una parte de la sociedad española y de la juventud vasca".
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.107" docsrc="efe_18966_2000/08/29">
+<cat scheme="ANPA" code="TRI:JUSTICIA-INTERIOR-SUCESOS,TERRORISMO"/>
+<cat scheme="IPTC" code="02000000"/>
+<cat scheme="IPTC" code="03000000"/>
+<cat scheme="IPTC" code="16000000"/>
+<answer instance="partido.n.107" senseid="partido.1"/>
+<context>
+<previous>
+Al hospital de Zumárraga se desplazaron numerosos representantes institucionales y políticos, entre ellos el lehendakari, Juan José Ibarretxe; el portavoz del ejecutivo autónomo, Josu Jon Imaz; el diputado general de Guipúzcoa, Román Sudupe, y el presidente de las Juntas Generales del territorio, Iñaki Alkiza, entre otras autoridades.
+</previous>
+<target>
+Manuel Indiano concurrió en las últimas elecciones municipales como independiente en las listas del PP y aunque no era el inmediatamente posterior en la lista para sustituir a Faustino Villanueva, quien renunció en febrero, el <head>partido</head> consideró que era el candidato más idóneo, según las mismas fuentes.
+</target>
+<following>
+Los restos mortales del concejal han sido trasladados al Instituto Anatómico Forense del cementerio de Polloe de San Sebastián, donde se le practicará la autopsia, y desde allí se llevarán al Ayuntamiento de Zumárraga, donde quedará instalada la capilla ardiente.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.108" docsrc="efe_20577_2000/08/31">
+<cat scheme="ANPA" code="DEP:DEPORTES,FUTBOL"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.108" senseid="partido.2"/>
+<context>
+<previous>
+La liga portuguesa de fútbol se paraliza el próximo fin de semana por la visita el domingo de la selección nacional a Estonia, en encuentro del Grupo 2 europeo de las eliminatorias del Mundial`2002, que se disputará en Corea del Sur y Japón.
+</previous>
+<target>
+No obstante, sábado se celebrará en la isla de Madeira el <head>partido</head> Marítimo-Gil Vicente, con el que se cerrará la segunda jornada del campeonato y que enfrenta a dos equipos empatados en al tabla con un punto.
+</target>
+<following>
+El paréntesis en la liga debido al comienzo de la eliminatorias mundialistas debe ser aprovechado por entrenadores para ultimar la preparación de sus conjuntos para la larga temporada, aunque los tres grandes Sporting, Oporto y Benfica no debe servir para mucho estos días de descanso debido sus numerosos internacionales.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.109" docsrc="efe_7201_2000/09/11">
+<cat scheme="ANPA" code="DEP:DEPORTES,FUTBOL"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.109" senseid="partido.2"/>
+<context>
+<previous>
+Bonet se recuperó de las dos jornadas que llevaba sin anotar y consiguió hoy igualar el récord de goles en un partido del torneo peruano que logró hace dos años el nacional Claudio Pizarro con la camiseta del Alianza Lima, antes de ser transferido al Werder Bremen de Alemania.
+</previous>
+<target>
+El delantero argentino, figura excluyente de la octava jornada del Clausura, convirtió sus goles en los minutos 1, 45, 47, 55 y 61 del intenso <head>partido</head> que disputaron el Cienciano y el Melgar en el estadio de la ciudad sureña del Cuzco.
+</target>
+<following>
+El Melgar consiguió disminuir la diferencia con dos goles del centrocampista brasileño Paulo César Cruvinel, a los 49 y 75 minutos de juego.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.110" docsrc="efe_7536_2000/09/11">
+<cat scheme="ANPA" code="POL:POLITICA,PARTIDOS"/>
+<cat scheme="IPTC" code="11000000"/>
+<answer instance="partido.n.110" senseid="partido.1"/>
+<context>
+<previous>
+El secretario general del PSOE, José Luis Rodríguez Zapatero, se mostró hoy preocupado por la evolución de la situación económica y también porque el Gobierno, en este contexto, se muestre "falto de reflejos, de pulso, sin iniciativas", críticas que los socialistas manifestarán a partir de mañana en el Parlamento.
+</previous>
+<target>
+En una conferencia de prensa ofrecida en Bilbao tras la reunión de la Comisión Ejecutiva Federal del <head>partido</head>, Rodríguez Zapatero criticó al Gobierno por ofrecer a la sociedad sólo mensajes "negativos y pesimistas" en vez de dar respuestas ante el incremento de la inflación, la pérdida de competitividad o el aumento del precio de los carburantes.
+</target>
+<following>
+La actitud del Gobierno, a su juicio, se basa en "el inmovilismo y el silencio cuando España se juega en decisiones estructurales y de fondo seguramente su capacidad para ser una sociedad y una economía moderna y avanzada" y, además, cuando "muchísimos sectores" económicos empiezan a tener "serios problemas" en su actividad.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.111" docsrc="efe_9997_2000/09/13">
+<cat scheme="ANPA" code="DEP:DEPORTES,FUTBOL"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.111" senseid="partido.2"/>
+<context>
+<previous>
+El centrocampista del PSV Eindhoven Theo Lucius salió al campo y revolucionó un partido que se le había puesto muy cuesta arriba al conjunto holandés tras el tempranero gol del Dynamo de Kiev al conseguir el gol del empate y dar el pase del tanto que suponía la victoria del PSV.
+</previous>
+<target>
+El conjunto ucraniano vio recompensado su dominio inicial en el <head>partido</head> en el minuto seis cuando el delantero uzbeko Maksim Shatskikh puso el 0-1 en el marcador tras rematar un pase de Bialkevich.
+</target>
+<following>
+El Dynamo anuló al PSV del campo, pero pronto llegó la reacción de los holandeses, que tuvieron su mejor oportunidad en un remate de Yuri Nikiforov, que cabeceó fuera un balón que había quedado en el área tras un disparo fallido del yugoslavo Mateja Kezman.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.112" docsrc="efe_12451_2000/09/16">
+<cat scheme="ANPA" code="DEP:DEPORTES,FUTBOL"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.112" senseid="partido.2"/>
+<context>
+<previous>
+Desde este momento el Elche siguió a la busca de un gol que le diera la victoria, pero el Sevilla se defendió de manera ordenada y buscando la velocidad tanto de Gallardo como de Fredi y los disparos duros desde fuera del área.
+</previous>
+<target>
+Fruto de un disparo lejano que el portero ilicitano César Gálvez no pudo atrapar, el delantero Gallardo puso la puntilla al equipo de Felipe Mesones al recoger el rechace dentro del área pequeña y desnivelar el marcador cuando todo indicaba que el <head>partido</head> iba a terminar en tablas
+</target>
+<following>
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.113" docsrc="efe_13183_2000/09/17">
+<cat scheme="ANPA" code="DEP:DEPORTES,FUTBOL"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.113" senseid="partido.2"/>
+<context>
+<previous>
+Suya fue la primera oportunidad del partido a los ochos minutos, pero su disparo salió ligeramente desviado. Ante esto, los rayistas respondieron inmediatamente, tal vez escarmentados del gol de Milosevic un año atrás que les dejó sin liderato. Luis Cembranos en el minuto 15 y Bolo en el 21 llevaron la inquietud a la meta de Juanmi, aunque sus lanzamientos no encontraron el fin buscado.
+</previous>
+<target>
+La lesión de Luis Cembranos en el minuto 18 en principio parecía un serio contratiempo para los de Juande Ramos. Hoy por hoy es el jugador más en forma y decisivo de este equipo. Sin embargo la realidad fue diferente. Los últimos veinte minutos de la primera parte fueron los mejores de los locales, que gozaron de las mejores ocasiones del <head>partido</head> en las botas de Bolo y Bolic.
+</target>
+<following>
+Mientras, el Real Zaragoza pareció entrar en un sueño profundo. Tanto Jamelli como Yordi apenas intervenían en el juego y el fútbol de toque que pretende Lillo no aparecía por ninguna parte. El técnico ovetense sorprendió al dejar en el banquillo a Juanele y eso lo notó la punta de ataque.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.114" docsrc="efe_14062_2000/09/18">
+<cat scheme="ANPA" code="DEP:DEPORTES,FUTBOL"/>
+<cat scheme="IPTC" code="15000000"/>
+<answer instance="partido.n.114" senseid="partido.2"/>
+<context>
+<previous>
+Después de que el conjunto universitario cumpliese las tres primeras jornadas con el balance de un empate, dos derrotas y sin marcar un tanto, Sequeiros estimó que "la reacción llegará pronto porque ya demostró en la pretemporada que tiene un equipo muy compacto".
+</previous>
+<target>
+"Yo estoy muy ilusionado con esta oportunidad, que pone fin a los problemas que he tenido en la pretemporada, y me anima muchísimo poder jugar de nuevo un <head>partido</head> oficial", agregó.
+</target>
+<following>
+Marcos Sequeiros no sabe si podrá debutar el próximo fin de semana ante el Recreativo de Huelva. "Sólo me preocupa entrenar a tope y la decisión final del que deba jugar dependerá exclusivamente al entrenador", señaló.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.115" docsrc="efe_14716_2000/09/19">
+<cat scheme="ANPA" code="POL:POLITICA,ELECCIONES"/>
+<cat scheme="IPTC" code="11000000"/>
+<answer instance="partido.n.115" senseid="partido.1"/>
+<context>
+<previous>
+Bandas de agitadores recorren la ciudad clavando en los ojos del rostro de los carteles electorales del principal candidato opositor, Vojislav Kostunica, el emblema diamantino de la OTAN.
+</previous>
+<target>
+Kostunica, de la coalición de 19 <head>partidos</head> medianos o pequeños reunidos en Oposición Democrática Serbia (DOS), es un nacionalista como Milosevic pero es dialogante con Occidente, promete no intentar imposibles contra la OTAN, e irse antes de cuatro años.
+</target>
+<following>
+Kostunica critica a fondo a EEUU, condena el ataque de 1999, y niega que Milosevic sea más patriota que él; en 1995, Kostunica acusó a Milosevic de traición y de ser acólito de EEUU tras los acuerdos de Dayton (1995) que trajeron la paz a Bosnia.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.116" docsrc="efe_17901_2000/09/22">
+<cat scheme="ANPA" code="TRI:JUSTICIA-INTERIOR-SUCESOS,TERRORISMO"/>
+<cat scheme="IPTC" code="02000000"/>
+<cat scheme="IPTC" code="03000000"/>
+<cat scheme="IPTC" code="16000000"/>
+<answer instance="partido.n.116" senseid="partido.1"/>
+<context>
+<previous>
+El punto de salida de la concentración será la confluencia de la calle de Aragón y el Paseo de Gracia, y discurrirá hasta la plaza de Cataluña.
+</previous>
+<target>
+La manifestación estará encabezada por el presidente de la Generalitat, Jordi Pujol, y el alcalde de Barcelona, Joan Clos, y se prevé la asistencia de las principales autoridades catalanas y los líderes de todos los <head>partidos</head>.
+</target>
+<following>
+Habrá además una concentración pacífica a las diez y media de la mañana en la plaza de Sant Jaume, también en Barcelona, en la que participarán todas las instituciones, y a las 12.00 manifestaciones silenciosas ante la Diputación de Barcelona y ante el Ayuntamiento de Sant Adriá, convocadas por los sindicatos CCOO y UGT, y también ante varios ayuntamientos catalanes.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.117" docsrc="efe_18965_2000/09/23">
+<cat scheme="ANPA" code="POL:POLITICA,CONFLICTO POL:POLITICA,INTERIOR"/>
+<cat scheme="IPTC" code="16000000"/>
+<answer instance="partido.n.117" senseid="partido.1"/>
+<context>
+<previous>
+Los representantes acordaron en la reunión del viernes, además, buscar "el consenso" para facilitar "la más inmediata aprobación" del proyecto de Ley que presentó el Ejecutivo para desactivar el SIN.
+</previous>
+<target>
+Se acordó, asimismo, que los <head>partidos</head> de oposición estudien el proyecto de modificación constitucional en materia electoral que ha presentado el Ejecutivo para facilitar la realización de nuevas elecciones generales el próximo año.
+</target>
+<following>
+El Ejecutivo ha elaborado en los últimos días diversos proyectos de ley y de modificación de la Constitución que deberán ser aprobados por el Congreso para que se concreten los anuncios de Fujimori.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.118" docsrc="efe_22987_2000/09/27">
+<cat scheme="ANPA" code="POL:POLITICA,PARTIDOS"/>
+<cat scheme="IPTC" code="11000000"/>
+<answer instance="partido.n.118" senseid="partido.1"/>
+<context>
+<previous>
+"Vamos a hacer frente a todas las responsabilidades, se les va a pagar a todos", aseguró López.
+</previous>
+<target>
+Exiplastic, una de las empresas afectadas por las deudas del PRI, vendió al <head>partido</head> un millón de gallardetes de plástico para colocarlos en postes de electricidad en las principales ciudades del país.
+</target>
+<following>
+El gerente de la compañía, Julio César Rumalan, dijo que el partido únicamente cubrió el 50 por ciento del coste de los gallardetes.
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.119" docsrc="efe_655_2000/10/02">
+<cat scheme="ANPA" code="POL:POLITICA,REGIONES-AUTONOMIAS"/>
+<cat scheme="IPTC" code="11000000"/>
+<answer instance="partido.n.119" senseid="partido.1"/>
+<context>
+<previous>
+En este sentido, recordó el reciente asesinato del presidente de la patronal guipuzcoana Adegi, José María Korta, así como el "chantaje" y la "coacción inadmisible" que supone el denominado "impuesto revolucionario", ante la cual pidió a los empresarios que "no cedan ante la extorsión".
+</previous>
+<target>
+"Tenemos la obligación de anteponer la defensa del derecho a la vida y a la libertad a cualquier aspiración o estrategia política", añadió el diputado general, quien destacó la necesidad de que los <head>partidos</head> políticos sean capaces de manifestarse "unidos, sin fisuras ni tensiones estériles, en contra de la violencia y en favor del derecho a la vida y a la libertad de las personas".
+</target>
+<following>
+Reclamó asimismo a quienes "dan cobertura política" a las acciones terroristas que "se comprometan con la paz", ya que "no es posible ninguna colaboración política mientras no expresen un rechazo expl ícito de la violencia".
+</following>
+</context>
+</instance>
+
+<instance id="partido.n.120" docsrc="efe_5414_2000/10/07">
+<cat scheme="ANPA" code="POL:POLITICA,ELECCIONES"/>
+<cat scheme="IPTC" code="11000000"/>
+<answer instance="partido.n.120" senseid="partido.1"/>
+<context>
+<previous>
+Estas son las terceras elecciones parlamentarias regulares que se celebran en Eslovenia desde que este país, hoy miembro asociado de la Unión Europea y participante del programa "Asociación por la paz" de la OTAN, se independizó (1991) de la antigua Yugoslavia comunista.
+</previous>
+<target>
+En 1996 el LDS obtuvo el mayor número de escaños (25), pero se produjo un "empate" entre el bloque de centroizquierda, encabezado por este <head>partido</head>, y el de centroderecha, puesto que los dos lados obtuvieron en mismo número de diputados.
+</target>
+<following>
+El LDS formó Gobierno entonces con el SLS, que había obtenido 19 escaños, y con DESUS, pero la coalición se desintegró en junio de este año y el ejecutivo de Drnovsek fue reemplazado por una coalición del centroderecha con el primer ministro Bajuk al frente
+</following>
+</context>
+</instance>
+</lexelt>
+</corpus>
