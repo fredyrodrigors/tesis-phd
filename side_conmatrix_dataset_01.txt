@@ -1,0 +1,24 @@
+True Positives: 3
+True Negatives: 16
+False Positives: 15
+False Negatives: 6
+
+----------------------------------------
+
+True Positive Rate (a.k.a. Recall or Sensitivity): 0.333333333333333
+True Negative Rate (a.k.a. Specificity): 0.516129032258065
+Positive Predictive Value (a.k.a. Precision or Positive Precision): 0.166666666666667
+Negative Predictive Value (a.k.a. Negative Precision): 0.727272727272727
+False Positive Rate (a.k.a. Fall-out): 0.483870967741935
+False Discovery Rate: 0.833333333333333
+
+----------------------------------------
+
+Accuracy: 0.475
+Efficiency: 0.424731182795699
+Error Rate: 0.525
+Euclidean Distance: 0.823756977432035
+F-Score: 0.222222222222222
+Matthews Correlation Coefficient (a.k.a. Phi Coefficient): -0.126357084250573
+Prevalence: 0.225
+Standard Error: 0.0789580584867688
