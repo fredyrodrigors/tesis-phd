@@ -3,16 +3,12 @@ True Positives, 2
 True Negatives, 30
 False Positives, 5
 False Negatives, 3
-
-
 True Positive Rate (a.k.a. Recall or Sensitivity), 0.4
 True Negative Rate (a.k.a. Specificity), 0.857142857142857
 Positive Predictive Value (a.k.a. Precision or Positive Precision), 0.285714285714286
 Negative Predictive Value (a.k.a. Negative Precision), 0.909090909090909
 False Positive Rate (a.k.a. Fall-out), 0.142857142857143
 False Discovery Rate, 0.714285714285714
-
-
 Accuracy, 0.8
 Efficiency, 0.628571428571429
 Error Rate, 0.2
