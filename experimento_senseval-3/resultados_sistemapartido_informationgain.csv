@@ -1,0 +1,4 @@
+,Precision,Recall,Macro-av F score
+Average partido.1,0.854,0.854,0.854
+Average partido.2,0.891,0.894,0.892
+System Macro-av,87.26%,87.38%,87.32%
