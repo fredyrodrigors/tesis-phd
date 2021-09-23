@@ -38,9 +38,9 @@ Se seleccionó una submuestra desde subcorpora ‘Periodismo’, con un conteo d
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/tareas_de_procesamiento/Tareas%20de%20procesamiento%20experimento%20ML-CARA.zip">Procesamiento aprendizaje automático «cara»</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/tareas_de_procesamiento/Tareas%20de%20procesamiento%20experimento%20ML-CARTA.zip">Procesamiento aprendizaje automático «carta»</a> 
 
-**Resultados de experimento CODICACH por unidad léxica para cada sentido desde FunGramKB**
+### Resultados de experimento CODICACH por unidad léxica para cada sentido desde FunGramKB
 
-***Matrices de confusión para los sentidos de la unidad léxica «cabeza»***
+**Matrices de confusión para los sentidos de la unidad léxica «cabeza»**
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/chief_conmatrix_dataset_01.csv">Dataset 01 para +CHIEF_00</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/chief_conmatrix_dataset_02.csv">Dataset 02 para +CHIEF_00</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/chief_conmatrix_dataset_03.csv">Dataset 03 para +CHIEF_00</a>
@@ -53,6 +53,7 @@ Se seleccionó una submuestra desde subcorpora ‘Periodismo’, con un conteo d
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/leader_conmatrix_dataset_01.csv">Dataset 01 para +LEADER_00</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/leader_conmatrix_dataset_02.csv">Dataset 02 para +LEADER_00</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/leader_conmatrix_dataset_03.csv">Dataset 03 para +LEADER_00</a>
+
 
 
 
