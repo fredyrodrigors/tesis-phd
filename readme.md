@@ -47,54 +47,54 @@ Se seleccionó una submuestra desde subcorpora ‘Periodismo’, con un conteo d
 
 #### 1. Matrices de confusión para los sentidos de la unidad léxica «cabeza»
 
-**Sentido +CHIEF_00**
+**Sentido +CHIEF_00
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/chief_conmatrix_dataset_01.csv">Dataset 01</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/chief_conmatrix_dataset_02.csv">Dataset 02</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/chief_conmatrix_dataset_03.csv">Dataset 03</a>
 
-***Sentido +HEAD_00***
+**Sentido +HEAD_00**
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/head_conmatrix_dataset_01.csv">Dataset 01</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/head_conmatrix_dataset_02.csv">Dataset 02</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/head_conmatrix_dataset_03.csv">Dataset 03</a>
 
-***Sentido +INTELLIGENCE_00***
+**Sentido +INTELLIGENCE_00**
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/intelligence_conmatrix_dataset_01.csv">Dataset 01</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/intelligence_conmatrix_dataset_02.csv">Dataset 02</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/intelligence_conmatrix_dataset_03.csv">Dataset 03</a>
 
-***Sentido +LEADER_00***
+**Sentido +LEADER_00**
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/leader_conmatrix_dataset_01.csv">Dataset 01</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/leader_conmatrix_dataset_02.csv">Dataset 02</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/leader_conmatrix_dataset_03.csv">Dataset 03</a>
 
 #### 2. Matrices de confusión para los sentidos de la unidad léxica «cara»
 
-***Sentido +FACE_00**
+**Sentido +FACE_00**
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cara/face_conmatrix_dataset_01.csv">Dataset 01</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cara/face_conmatrix_dataset_02.csv">Dataset 02</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cara/face_conmatrix_dataset_03.csv">Dataset 03</a>
 
-***Sentido +SIDE_00***
+**Sentido +SIDE_00**
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cara/side_conmatrix_dataset_01.csv">Dataset 01</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cara/side_conmatrix_dataset_02.csv">Dataset 02</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cara/side_conmatrix_dataset_03.csv">Dataset 03</a>
 
-**Matrices de confusión para los sentidos de la unidad léxica «carta»**
+#### 3. Matrices de confusión para los sentidos de la unidad léxica «carta»
 
-***Sentido +CARD_00***
+**Sentido +CARD_00**
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_carta/card_conmatrix_dataset_01.csv">Dataset 01</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_carta/card_conmatrix_dataset_02.csv">Dataset 02</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_carta/card_conmatrix_dataset_03.csv">Dataset 03</a>
 
-***Sentido +LETTER_00***
+**Sentido +LETTER_00**
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_carta/letter_conmatrix_dataset_01.csv">Dataset 01</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_carta/letter_conmatrix_dataset_02.csv">Dataset 02</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_carta/letter_conmatrix_dataset_03.csv">Dataset 03</a>
 
-***Sentido $MENU_00***
+**Sentido $MENU_00**
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_carta/menu_conmatrix_dataset_01.csv">Dataset 01</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_carta/menu_conmatrix_dataset_02.csv">Dataset 02</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_carta/menu_conmatrix_dataset_03.csv">Dataset 03</a>
 
-#### <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/macroaverages_codicach.csv"> Macropromedios para los sistemas de desambiguación léxica automática aplicando el algoritmo bayesiano ingenuo</a>**
+#### 4. <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/macroaverages_codicach.csv"> Macropromedios para los sistemas de desambiguación léxica automática aplicando el algoritmo bayesiano ingenuo</a>
 
