@@ -45,7 +45,7 @@ Se seleccionó una submuestra desde subcorpora ‘Periodismo’, con un conteo d
 
 ### Resultados de experimento CODICACH por unidad léxica para cada sentido desde FunGramKB
 
-#### Matrices de confusión para los sentidos de la unidad léxica «cabeza»
+#### 1. Matrices de confusión para los sentidos de la unidad léxica «cabeza»
 
 **Sentido +CHIEF_00**
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/chief_conmatrix_dataset_01.csv">Dataset 01</a>
@@ -67,7 +67,7 @@ Se seleccionó una submuestra desde subcorpora ‘Periodismo’, con un conteo d
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/leader_conmatrix_dataset_02.csv">Dataset 02</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/leader_conmatrix_dataset_03.csv">Dataset 03</a>
 
-**Matrices de confusión para los sentidos de la unidad léxica «cara»**
+#### 2. Matrices de confusión para los sentidos de la unidad léxica «cara»
 
 ***Sentido +FACE_00**
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cara/face_conmatrix_dataset_01.csv">Dataset 01</a>
