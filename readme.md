@@ -20,6 +20,11 @@ El corpus utilizado para la tarea de muestra léxica del español en <a href="ht
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/experimento_senseval-3/resultados_partido2_informationgain.csv">"partido.2" para ganancia de información</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/experimento_senseval-3/resultados_partido2_mutualinformation.csv">"partido.2" para información mutua</a>
 
+**Sistema "partido"**
+- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/experimento_senseval-3/resultados_sistemapartido_chisquare.csv">Sistema "partido" para chi-cuadrado</a>
+- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/experimento_senseval-3/resultados_sistemapartido_informationgain.csv">Sistema "partido" para ganancia de información</a>
+- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/experimento_senseval-3/resultados_sistemapartido_mutualinformation.csv">Sistema "partido" para información mutua</a>
+
 ## Experimento CODICACH
 Se seleccionó una submuestra desde subcorpora ‘Periodismo’, con un conteo de 534.921.215 unidades léxicas disponibles. Cada una de las columnas a partir de las que se organizó el corpus corresponde a las variables de corpusID (identificador de la instancia en un archivo digital del corpus CODICACH); source (fuente desde la que se extrae la instancia en el corpus, correspondiente a un medio de comunicación escrito chileno, como periódico o revista); context (ventana de palabras en la que aparece la palabra objetivo); senseID (etiqueta para el sentido de la palabra objetivo en la ventana contextual correspondiente, que a su vez se relaciona con el concepto en COREL extraído desde la base de conocimiento FunGramKB, con el potencial de ser utilizado como clave primaria). Todos los sentidos para las 120 instancias correspondientes a cada una de las unidades léxicas en análisis fueron etiquetados manualmente.
 
@@ -62,22 +67,34 @@ Se seleccionó una submuestra desde subcorpora ‘Periodismo’, con un conteo d
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/leader_conmatrix_dataset_02.csv">Dataset 02</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/leader_conmatrix_dataset_03.csv">Dataset 03</a>
 
+**Matrices de confusión para los sentidos de la unidad léxica «cara»**
 
+***Sentido +FACE_00***
+- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cara/face_conmatrix_dataset_01.csv">Dataset 01</a>
+- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cara/face_conmatrix_dataset_02.csv">Dataset 02</a>
+- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cara/face_conmatrix_dataset_03.csv">Dataset 03</a>
 
+***Sentido +SIDE_00***
+- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cara/side_conmatrix_dataset_01.csv">Dataset 01</a>
+- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cara/side_conmatrix_dataset_02.csv">Dataset 02</a>
+- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cara/side_conmatrix_dataset_03.csv">Dataset 03</a>
 
+**Matrices de confusión para los sentidos de la unidad léxica «carta»**
 
+***Sentido +CARD_00***
+- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_carta/card_conmatrix_dataset_01.csv">Dataset 01</a>
+- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_carta/card_conmatrix_dataset_02.csv">Dataset 02</a>
+- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_carta/card_conmatrix_dataset_03.csv">Dataset 03</a>
 
+***Sentido +LETTER_00***
+- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_carta/letter_conmatrix_dataset_01.csv">Dataset 01</a>
+- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_carta/letter_conmatrix_dataset_02.csv">Dataset 02</a>
+- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_carta/letter_conmatrix_dataset_03.csv">Dataset 03</a>
 
+***Sentido $MENU_00***
+- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_carta/menu_conmatrix_dataset_01.csv">Dataset 01</a>
+- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_carta/menu_conmatrix_dataset_02.csv">Dataset 02</a>
+- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_carta/menu_conmatrix_dataset_03.csv">Dataset 03</a>
 
-
-
-
-
-
-
-
-
-
-
-
+**<a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/macroaverages_codicach.csv">Macropromedios para los sistemas de desambiguación léxica automática</a>**
 
