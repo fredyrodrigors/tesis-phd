@@ -19,10 +19,19 @@ El corpus utilizado para la tarea de muestra léxica del español en <a href="ht
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/experimento_senseval-3/resultados_partido2_informationgain.csv">"partido.2" para ganancia de información</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/experimento_senseval-3/resultados_partido2_mutualinformation.csv">"partido.2" para información mutua</a>
 
-
-
-
 ## Experimento CODICACH
+Se seleccionó una submuestra desde subcorpora ‘Periodismo’, con un conteo de 534.921.215 unidades léxicas disponibles. Cada una de las columnas a partir de las que se organizó el corpus corresponde a las variables de corpusID (identificador de la instancia en un archivo digital del corpus CODICACH); source (fuente desde la que se extrae la instancia en el corpus, correspondiente a un medio de comunicación escrito chileno, como periódico o revista); context (ventana de palabras en la que aparece la palabra objetivo); senseID (etiqueta para el sentido de la palabra objetivo en la ventana contextual correspondiente, que a su vez se relaciona con el concepto en COREL extraído desde la base de conocimiento FunGramKB, con el potencial de ser utilizado como clave primaria). Todos los sentidos para las 120 instancias correspondientes a cada una de las unidades léxicas en análisis fueron etiquetados manualmente.
+
+**Minidiccionarios desde FunGramKB
+- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/mini_diccionarios_fgkb/cabeza_minidir_fgkb.csv"> sentidos de «cabeza»</a> 
+- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/mini_diccionarios_fgkb/cara_minidir_fgkb.csv"> sentidos de «cara»</a>
+- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/mini_diccionarios_fgkb/carta_minidir_fgkb.csv"> sentidos de «carta»</a>
+
+**Submuestras etiquetadas para cada unidad léxica
+- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/corpus_seleccion_codicach/cabeza_corpus_seleccion.csv">Submuestra etiquetada «cabeza»</a> 
+- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/corpus_seleccion_codicach/cara_corpus_seleccion.csv">Submuestra etiquetada «cara»</a>
+- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/corpus_seleccion_codicach/carta_corpus_seleccion.csv">Submuestra etiquetada «carta»</a> 
+
 
 
 
