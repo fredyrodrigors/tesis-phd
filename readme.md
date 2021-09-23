@@ -43,20 +43,24 @@ Se seleccionó una submuestra desde subcorpora ‘Periodismo’, con un conteo d
 **Matrices de confusión para los sentidos de la unidad léxica «cabeza»**
 
 ***Sentido +CHIEF_00***
-- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/chief_conmatrix_dataset_01.csv">Dataset 01 para +CHIEF_00</a>
-- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/chief_conmatrix_dataset_02.csv">Dataset 02 para +CHIEF_00</a>
-- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/chief_conmatrix_dataset_03.csv">Dataset 03 para +CHIEF_00</a>
+- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/chief_conmatrix_dataset_01.csv">Dataset 01</a>
+- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/chief_conmatrix_dataset_02.csv">Dataset 02</a>
+- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/chief_conmatrix_dataset_03.csv">Dataset 03</a>
 
 ***Sentido +HEAD_00***
-- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/head_conmatrix_dataset_01.csv">Dataset 01 para +HEAD_00</a>
-- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/head_conmatrix_dataset_02.csv">Dataset 02 para +HEAD_00</a>
-- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/head_conmatrix_dataset_03.csv">Dataset 03 para +HEAD_00</a>
-- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/intelligence_conmatrix_dataset_01.csv">Dataset 01 para +INTELLIGENCE_00</a>
-- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/intelligence_conmatrix_dataset_02.csv">Dataset 02 para +INTELLIGENCE_00</a>
-- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/intelligence_conmatrix_dataset_03.csv">Dataset 03 para +INTELLIGENCE_00</a>
-- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/leader_conmatrix_dataset_01.csv">Dataset 01 para +LEADER_00</a>
-- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/leader_conmatrix_dataset_02.csv">Dataset 02 para +LEADER_00</a>
-- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/leader_conmatrix_dataset_03.csv">Dataset 03 para +LEADER_00</a>
+- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/head_conmatrix_dataset_01.csv">Dataset 01</a>
+- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/head_conmatrix_dataset_02.csv">Dataset 02</a>
+- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/head_conmatrix_dataset_03.csv">Dataset 03</a>
+
+***Sentido +INTELLIGENCE_00***
+- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/intelligence_conmatrix_dataset_01.csv">Dataset 01</a>
+- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/intelligence_conmatrix_dataset_02.csv">Dataset 02</a>
+- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/intelligence_conmatrix_dataset_03.csv">Dataset 03</a>
+
+***Sentido +LEADER_00***
+- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/leader_conmatrix_dataset_01.csv">Dataset 01</a>
+- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/leader_conmatrix_dataset_02.csv">Dataset 02</a>
+- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/leader_conmatrix_dataset_03.csv">Dataset 03</a>
 
 
 
