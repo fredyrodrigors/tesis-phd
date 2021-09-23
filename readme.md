@@ -9,9 +9,9 @@ El corpus utilizado para la tarea de muestra léxica del español en <a href="ht
 
 **Resultados de los experimentos de pilotaje para las medidas de reducción de dimesión en formato .cvs**
 
-*«partido.1» =  “Organización política cuyos miembros comparten la misma ideología”*
+***«partido.1» =  “Organización política cuyos miembros comparten la misma ideología”***
 - *<a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/experimento_senseval-3/resultados_partido1_chisquare.csv">Resultados «partido.1» para chi-cuadrado</a>* 
--- *<a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/experimento_senseval-3/resultados_partido1_informationgain.csv">Resultados «partido.1» para ganancia de información</a>* 
+- *<a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/experimento_senseval-3/resultados_partido1_informationgain.csv">Resultados «partido.1» para ganancia de información</a>* 
 - *<a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/experimento_senseval-3/resultados_partido1_mutualinformation.csv">Resultados «partido.1» para información mutua</a>* 
 - *<a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/experimento_senseval-3/resultados_partido1_chisquare.csv">Resultados «partido.1» para chi-cuadrado</a>* 
 - *<a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/experimento_senseval-3/resultados_partido1_informationgain.csv">Resultados «partido.1» para ganancia de información</a>* 
