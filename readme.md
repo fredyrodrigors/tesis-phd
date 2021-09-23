@@ -9,12 +9,12 @@ El corpus utilizado para la tarea de muestra léxica del español en <a href="ht
 
 ### Resultados de los experimentos de pilotaje para las medidas de reducción de dimesión
 
-*"partido.1" =  Organización política cuyos miembros comparten la misma ideología*
+**"partido.1" =  Organización política cuyos miembros comparten la misma ideología**
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/experimento_senseval-3/resultados_partido1_chisquare.csv">"partido.1" para chi-cuadrado</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/experimento_senseval-3/resultados_partido1_informationgain.csv">"partido.1" para ganancia de información</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/experimento_senseval-3/resultados_partido1_mutualinformation.csv">"partido.1" para información mutua</a>
 
-*"partido.2" =  Prueba deportiva en la que se enfrentan dos equipos o jugadores
+**"partido.2" =  Prueba deportiva en la que se enfrentan dos equipos o jugadores**
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/experimento_senseval-3/resultados_partido2_chisquare.csv">"partido.2" para chi-cuadrado</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/experimento_senseval-3/resultados_partido2_informationgain.csv">"partido.2" para ganancia de información</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/experimento_senseval-3/resultados_partido2_mutualinformation.csv">"partido.2" para información mutua</a>
