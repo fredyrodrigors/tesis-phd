@@ -6,8 +6,9 @@ El corpus utilizado para la tarea de muestra léxica del español en <a href="ht
 
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/experimento_senseval-3/partido_minidir_senseval.xml">Minidiccionario para los sentidos de «partido»</a> 
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/experimento_senseval-3/partido_instancecorpus_senseval.xml">Corpus de 120 instancias para cada uno de los sentidos de «partido»</a>
+- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/tareas_de_procesamiento/Tareas%20de%20procesamiento%20SENSEVAL-3.zip">Tareas de procesamiento SENSEVAL-3 (archivo .zip para descargar)</a>
 
-### Resultados de SENSEVAL-3 para las medidas de reducción de dimesión
+### Resultados de experimento SENSEVAL-3 para las medidas de reducción de dimesión
 
 **"partido.1" =  Organización política cuyos miembros comparten la misma ideología**
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/experimento_senseval-3/resultados_partido1_chisquare.csv">"partido.1" para chi-cuadrado</a>
@@ -28,11 +29,23 @@ Se seleccionó una submuestra desde subcorpora ‘Periodismo’, con un conteo d
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/mini_diccionarios_fgkb/carta_minidir_fgkb.csv"> Sentidos de «carta»</a>
 
 **Submuestras etiquetadas para cada unidad léxica**
-- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/corpus_seleccion_codicach/cabeza_corpus_seleccion.csv">Submuestra etiquetada «cabeza»</a> 
-- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/corpus_seleccion_codicach/cara_corpus_seleccion.csv">Submuestra etiquetada «cara»</a>
-- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/corpus_seleccion_codicach/carta_corpus_seleccion.csv">Submuestra etiquetada «carta»</a> 
+- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/corpus_seleccion_codicach/cabeza_corpus_seleccion.csv">Submuestra «cabeza»</a> 
+- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/corpus_seleccion_codicach/cara_corpus_seleccion.csv">Submuestra «cara»</a>
+- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/corpus_seleccion_codicach/carta_corpus_seleccion.csv">Submuestra «carta»</a> 
 
-**
+**Tareas de procesamiento (archivos .zip para descargar)**
+- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/tareas_de_procesamiento/Tareas%20de%20procesamiento%20experimento%20ML-CABEZA.zip">Procesamiento aprendizaje automático «cabeza»</a>
+- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/tareas_de_procesamiento/Tareas%20de%20procesamiento%20experimento%20ML-CARA.zip">Procesamiento aprendizaje automático «cara»</a>
+- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/tareas_de_procesamiento/Tareas%20de%20procesamiento%20experimento%20ML-CARTA.zip">Procesamiento aprendizaje automático «carta»</a> 
+
+**Resultados de experimento CODICACH por unidad léxica para cada sentido desde FunGramKB**
+
+***Matrices de confusión para los sentidos de la unidad léxica «cabeza»***
+- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/chief_conmatrix_dataset_01.csv">Dataset 01 para +CHIEF_00</a>
+
+
+
+
 
 
 
