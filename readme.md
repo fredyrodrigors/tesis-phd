@@ -1,12 +1,14 @@
 # Propuesta de un modelo de desambiguación léxica automática
-<<<<<<< HEAD
-<p>Este repositorio contiene los archivos *.txt*, *.csv*, *.xml* y *.xsl* correspondientes a los recursos lingüísticos, los experimentos y los resultados de la investigación ***Diseño y desarrollo de un modelo de desambiguación léxica automática para el procesamiento del lenguaje natural*** (<a href="https://www.researchgate.net/profile/Fredy-Nunez-Torres/">Fredy Núñez Torres</a>), presentada en el <a href="http://posgrado.letras.uc.cl/index.php/descripcion-doctorado-linguistica">Posgrado en Lingüística</a> de la Pontificia Universidad Católica de Chile.</p>
-=======
-<p>Este repositorio contiene los archivos `.txt`, `.csv`, `.xml` y `-xsl` correspondientes a los recursos lingüísticos, los experimentos y los resultados de la investigación <i>Diseño y desarrollo de un modelo de desambiguación léxica automática para el procesamiento del lenguaje natural</i> (<a href="https://www.researchgate.net/profile/Fredy-Nunez-Torres/">Fredy Núñez Torres</a>), presentada en el <a href="http://posgrado.letras.uc.cl/index.php/descripcion-doctorado-linguistica">Posgrado en Lingüística</a> de la Pontificia Universidad Católica de Chile.</p>
->>>>>>> 819735744eeb419ecf91c3e1d219eb72017abea0
+
+Este repositorio contiene los archivos *.txt*, *.csv*, *.xml* y *.xsl* correspondientes a los recursos lingüísticos, los experimentos y los resultados de la investigación ***Diseño y desarrollo de un modelo de desambiguación léxica automática para el procesamiento del lenguaje natural***. 
+
+```
+**Autor:** Fredy Núñez Torres
+Posgrado en Lingüística de la Pontificia Universidad Católica de Chile
+```
 
 ## Experimento piloto Senseval-3
-<p>El corpus utilizado para la tarea de muestra léxica del español en <a href="http://web.eecs.umich.edu/~mihalcea/senseval/">SENSEVAL-3 (Evaluating Word Sense Disambiguation Systems)</a> está formado por 12.625 ejemplos etiquetados, que cubren 25.875 frases y 1.506.233 palabras en total. El contexto considerado para cada ejemplo incluye la palabra objetivo, más una ventana contextual. Todos los ejemplos han sido extraídos desde el corpus del año 2000 de la Agencia Española de Noticias EFE, que incluye 289.066 noticias (2.814.291 frases y 95.344.946 palabras), de enero a diciembre de 2000. Para cada palabra, un mínimo de 200 ejemplos han sido etiquetados manualmente por tres anotadores humanos expertos independientes. Los casos de desacuerdo han sido resueltos por otro lexicógrafo (asignando un sentido único a cada ejemplo). Para la ejecución del experimento de prueba de aprendizaje automático utilizando el algoritmo bayesiano ingenuo, se seleccionaron 120 instancias de la  muestra léxica para la palabra objetivo «partido», extraída desde el corpus SENSEVAL-3.</p>
+El corpus utilizado para la tarea de muestra léxica del español en <a href="http://web.eecs.umich.edu/~mihalcea/senseval/">SENSEVAL-3 (Evaluating Word Sense Disambiguation Systems)</a> está formado por 12.625 ejemplos etiquetados, que cubren 25.875 frases y 1.506.233 palabras en total. El contexto considerado para cada ejemplo incluye la palabra objetivo, más una ventana contextual. Todos los ejemplos han sido extraídos desde el corpus del año 2000 de la Agencia Española de Noticias EFE, que incluye 289.066 noticias (2.814.291 frases y 95.344.946 palabras), de enero a diciembre de 2000. Para cada palabra, un mínimo de 200 ejemplos han sido etiquetados manualmente por tres anotadores humanos expertos independientes. Los casos de desacuerdo han sido resueltos por otro lexicógrafo (asignando un sentido único a cada ejemplo). Para la ejecución del experimento de prueba de aprendizaje automático utilizando el algoritmo bayesiano ingenuo, se seleccionaron 120 instancias de la  muestra léxica para la palabra objetivo «partido», extraída desde el corpus SENSEVAL-3.
 
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/experimento_senseval-3/partido_minidir_senseval.xml">Minidiccionario para los sentidos de «partido»</a> 
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/experimento_senseval-3/partido_instancecorpus_senseval.xml">Corpus de 120 instancias para cada uno de los sentidos de «partido»</a>
@@ -101,10 +103,6 @@ Se seleccionó una submuestra desde subcorpora ‘Periodismo’, perteneciente a
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_carta/menu_conmatrix_dataset_03.csv">Dataset 03</a>
 
 #### 4. <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/macroaverages_codicach.csv"> Macropromedios</a> para los sistemas de desambiguación léxica automática
-
-```
-macro_averages_codicach
-```
 
 ## DAMIEN (Data Mining Encountered)
 Todos los experimentos fueron realizados utilizando el entorno infomático DAMIEN (DAta MIning ENcountered), que integra técnicas de múltiples disciplinas dentro de análisis de texto (lingüística de corpus, estadística y minería textual) para apoyar la investigación lingüística de manera más efectiva. La herramienta ha sido desarrollada por <a href="http://www.fungramkb.com/bio/jcperinan.html">Carlos Periñán Pascual</a>. Es de uso libre, y se encuentra disponible en http://www.fungramkb.com/nlp.aspx. Para más información, se recomienda el artículo <a href="https://ojsspdc.ulpgc.es/ojs/index.php/LFE/article/view/921/843">Bridging the gap within text-data analytics: a computer environment for data analysis in linguistic research</a> (Periñán-Pascual, 2017).
