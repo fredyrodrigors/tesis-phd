@@ -102,6 +102,10 @@ Se seleccionó una submuestra desde subcorpora ‘Periodismo’, perteneciente a
 
 #### 4. <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/macroaverages_codicach.csv"> Macropromedios</a> para los sistemas de desambiguación léxica automática
 
+```
+macro_averages_codicach
+```
+
 ## DAMIEN (Data Mining Encountered)
 Todos los experimentos fueron realizados utilizando el entorno infomático DAMIEN (DAta MIning ENcountered), que integra técnicas de múltiples disciplinas dentro de análisis de texto (lingüística de corpus, estadística y minería textual) para apoyar la investigación lingüística de manera más efectiva. La herramienta ha sido desarrollada por <a href="http://www.fungramkb.com/bio/jcperinan.html">Carlos Periñán Pascual</a>. Es de uso libre, y se encuentra disponible en http://www.fungramkb.com/nlp.aspx. Para más información, se recomienda el artículo <a href="https://ojsspdc.ulpgc.es/ojs/index.php/LFE/article/view/921/843">Bridging the gap within text-data analytics: a computer environment for data analysis in linguistic research</a> (Periñán-Pascual, 2017).
 
