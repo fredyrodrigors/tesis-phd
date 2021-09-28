@@ -1,10 +1,13 @@
 # Propuesta de un modelo de desambiguación léxica automática
 
-Este repositorio contiene los archivos *.txt*, *.csv*, *.xml* y *.xsl* correspondientes a los recursos lingüísticos, los experimentos y los resultados de la investigación ***Diseño y desarrollo de un modelo de desambiguación léxica automática para el procesamiento del lenguaje natural***. 
+Este repositorio contiene los archivos *.txt*, *.csv*, *.xml* y *.xsl* correspondientes a los recursos lingüísticos, los experimentos y los resultados de la implementación de un modelo de desambiguación léxica automática.
 
 ```
-**Autor:** Fredy Núñez Torres
-Posgrado en Lingüística de la Pontificia Universidad Católica de Chile
+Diseño y desarrollo de un modelo de desambiguación léxica automática para el procesamiento del lenguaje natural 
+Fredy Núñez Torres (2021)
+Programa de Doctorado en Lingüística
+Facultad de Letras
+Pontificia Universidad Católica de Chile
 ```
 
 ## Experimento piloto Senseval-3
@@ -49,55 +52,60 @@ Se seleccionó una submuestra desde subcorpora ‘Periodismo’, perteneciente a
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/tareas_de_procesamiento/Tareas%20de%20procesamiento%20experimento%20ML-CARA.zip">Procesamiento aprendizaje automático «cara»</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/tareas_de_procesamiento/Tareas%20de%20procesamiento%20experimento%20ML-CARTA.zip">Procesamiento aprendizaje automático «carta»</a> 
 
-### Resultados de experimento CODICACH por unidad léxica para cada sentido desde FunGramKB
+### Resultados de experimento CODICACH
 
 #### 1. Matrices de confusión para los sentidos de la unidad léxica «cabeza»
 
-**Sentido +CHIEF_00**
+**Sentido +CHIEF_00 =** A person who is in charge; _the head of the whole operation_
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/chief_conmatrix_dataset_01.csv">Dataset 01</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/chief_conmatrix_dataset_02.csv">Dataset 02</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/chief_conmatrix_dataset_03.csv">Dataset 03</a>
 
-**Sentido +HEAD_00**
+**Sentido +HEAD_00 =** The upper or front part of the body in animals, contains the face and brains; _he stuck his head out the window_
+
+´´´´
++(e1: +BE_00 (x1: +HEAD_00)Theme (x2: +EXTERNAL_ORGAN_00)Referent)
++((e2: +BE_02 (x3: 1 +FACE_00)Theme (x4: +FRONT_00)Location)(e3: +BE_02 (x4)Theme (x1)Location)) *((e4: +BE_02 (x5: +HAIR_01)Theme (x6: +TOP_00)Location)(e5: +BE_02 (x6)Theme (x1)Location)(e6: +COMPRISE_00 (x7: +HUMAN_00)Theme (x1)Referent)) *(e7: +BE_02 (x8: 1 +BRAIN_00)Theme (x1)Location (f1: +IN_00)Position) *(e8: +BE_02 (x9: 2 +EAR_00)Theme (x1)Location)
+´´´´
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/head_conmatrix_dataset_01.csv">Dataset 01</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/head_conmatrix_dataset_02.csv">Dataset 02</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/head_conmatrix_dataset_03.csv">Dataset 03</a>
 
-**Sentido +INTELLIGENCE_00**
+**Sentido +INTELLIGENCE_00 =** Your ability to think feel and imagine things
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/intelligence_conmatrix_dataset_01.csv">Dataset 01</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/intelligence_conmatrix_dataset_02.csv">Dataset 02</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/intelligence_conmatrix_dataset_03.csv">Dataset 03</a>
 
-**Sentido +LEADER_00**
+**Sentido +LEADER_00 =** A person who rules or guides or inspires others
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/leader_conmatrix_dataset_01.csv">Dataset 01</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/leader_conmatrix_dataset_02.csv">Dataset 02</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/leader_conmatrix_dataset_03.csv">Dataset 03</a>
 
 #### 2. Matrices de confusión para los sentidos de la unidad léxica «cara»
 
-**Sentido +FACE_00**
+**Sentido +FACE_00 =** The front of the head from the forehead to the chin and ear to ear; _he washed his face_
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cara/face_conmatrix_dataset_01.csv">Dataset 01</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cara/face_conmatrix_dataset_02.csv">Dataset 02</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cara/face_conmatrix_dataset_03.csv">Dataset 03</a>
 
-**Sentido +SIDE_00**
+**Sentido +SIDE_00 =** A surface forming part of the outside of an object; _he examined all sides of the crystal_
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cara/side_conmatrix_dataset_01.csv">Dataset 01</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cara/side_conmatrix_dataset_02.csv">Dataset 02</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cara/side_conmatrix_dataset_03.csv">Dataset 03</a>
 
 #### 3. Matrices de confusión para los sentidos de la unidad léxica «carta»
 
-**Sentido +CARD_00**
+**Sentido +CARD_00 =** A small piece of thick stiff paper with numbers or pictures on them used to play a particular game
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_carta/card_conmatrix_dataset_01.csv">Dataset 01</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_carta/card_conmatrix_dataset_02.csv">Dataset 02</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_carta/card_conmatrix_dataset_03.csv">Dataset 03</a>
 
-**Sentido +LETTER_00**
+**Sentido +LETTER_00 =** A written message addressed to a person or organization; _wrote an indignant letter to the editor_
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_carta/letter_conmatrix_dataset_01.csv">Dataset 01</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_carta/letter_conmatrix_dataset_02.csv">Dataset 02</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_carta/letter_conmatrix_dataset_03.csv">Dataset 03</a>
 
-**Sentido $MENU_00**
+**Sentido $MENU_00 =** A list of dishes available at a restaurant; _the menu was in French_
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_carta/menu_conmatrix_dataset_01.csv">Dataset 01</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_carta/menu_conmatrix_dataset_02.csv">Dataset 02</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_carta/menu_conmatrix_dataset_03.csv">Dataset 03</a>
