@@ -1,4 +1,4 @@
-# Propuesta de un modelo de desambiguación léxica automática (Núñez, 2021)
+# Diseño y desarrollo de un modelo de desambiguación léxica automática (Núñez, 2021)
 
 Este repositorio contiene los archivos `txt`, `csv`, `xml` y `xsl` correspondientes a los recursos lingüísticos, los experimentos y los resultados de la implementación de un modelo de desambiguación léxica automática, presentado en el programa de<a href="http://posgrado.letras.uc.cl/index.php/descripcion-doctorado-linguistica"> Doctorado en Lingüística</a> de la Facultad de Letras de la Pontificia Universidad Católica de Chile.
 
