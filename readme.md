@@ -62,11 +62,10 @@ Se seleccionó una submuestra desde subcorpora ‘Periodismo’, perteneciente a
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/chief_conmatrix_dataset_03.csv">Dataset 03</a>
 
 **Sentido +HEAD_00 =** The upper or front part of the body in animals, contains the face and brains; _he stuck his head out the window_
-
-´´´´
+```
 +(e1: +BE_00 (x1: +HEAD_00)Theme (x2: +EXTERNAL_ORGAN_00)Referent)
 +((e2: +BE_02 (x3: 1 +FACE_00)Theme (x4: +FRONT_00)Location)(e3: +BE_02 (x4)Theme (x1)Location)) *((e4: +BE_02 (x5: +HAIR_01)Theme (x6: +TOP_00)Location)(e5: +BE_02 (x6)Theme (x1)Location)(e6: +COMPRISE_00 (x7: +HUMAN_00)Theme (x1)Referent)) *(e7: +BE_02 (x8: 1 +BRAIN_00)Theme (x1)Location (f1: +IN_00)Position) *(e8: +BE_02 (x9: 2 +EAR_00)Theme (x1)Location)
-´´´´
+```
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/head_conmatrix_dataset_01.csv">Dataset 01</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/head_conmatrix_dataset_02.csv">Dataset 02</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/head_conmatrix_dataset_03.csv">Dataset 03</a>
