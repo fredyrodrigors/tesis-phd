@@ -68,7 +68,8 @@ Se seleccionó una submuestra desde subcorpora ‘Periodismo’, perteneciente a
 **Sentido +HEAD_00 =** The upper or front part of the body in animals, contains the face and brains; _he stuck his head out the window_
 ``````
 +(e1: +BE_00 (x1: +HEAD_00)Theme (x2: +EXTERNAL_ORGAN_00)Referent)
-+((e2: +BE_02 (x3: 1 +FACE_00)Theme (x4: +FRONT_00)Location)(e3: +BE_02 (x4)Theme (x1)Location)) *((e4: +BE_02 (x5: +HAIR_01)Theme (x6: +TOP_00)Location)(e5: +BE_02 (x6)Theme (x1)Location)(e6: +COMPRISE_00 (x7: +HUMAN_00)Theme (x1)Referent)) 
++((e2: +BE_02 (x3: 1 +FACE_00)Theme (x4: +FRONT_00)Location)(e3: +BE_02 (x4)Theme (x1)Location)) 
+*((e4: +BE_02 (x5: +HAIR_01)Theme (x6: +TOP_00)Location)(e5: +BE_02 (x6)Theme (x1)Location)(e6: +COMPRISE_00 (x7: +HUMAN_00)Theme (x1)Referent)) 
 *(e7: +BE_02 (x8: 1 +BRAIN_00)Theme (x1)Location (f1: +IN_00)Position) 
 *(e8: +BE_02 (x9: 2 +EAR_00)Theme (x1)Location)
 ``````
@@ -77,19 +78,19 @@ Se seleccionó una submuestra desde subcorpora ‘Periodismo’, perteneciente a
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/head_conmatrix_dataset_03.csv">Dataset 03</a>
 
 **Sentido +INTELLIGENCE_00 =** Your ability to think feel and imagine things
-``
+````
 +(e1: +BE_00 (x1: +INTELLIGENCE_00)Theme (x2: +COGNITIVE_ATT_00)Referent) 
 *(e2: +THINK_00 (x3)Theme (x4)Referent (f1: x1)Means)
-``
+````
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/intelligence_conmatrix_dataset_01.csv">Dataset 01</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/intelligence_conmatrix_dataset_02.csv">Dataset 02</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/intelligence_conmatrix_dataset_03.csv">Dataset 03</a>
 
 **Sentido +LEADER_00 =** A person who rules or guides or inspires others
-``
+````
 +(e1: +BE_00 (x1: +LEADER_00)Theme (x2: +ADULT_00)Referent) 
 +(e2: +CONTROL_00 (x1)Theme (x3)Referent)
-``
+````
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/leader_conmatrix_dataset_01.csv">Dataset 01</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/leader_conmatrix_dataset_02.csv">Dataset 02</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/leader_conmatrix_dataset_03.csv">Dataset 03</a>
@@ -97,11 +98,18 @@ Se seleccionó una submuestra desde subcorpora ‘Periodismo’, perteneciente a
 #### 2. Matrices de confusión para los sentidos de la unidad léxica «cara»
 
 **Sentido +FACE_00 =** The front of the head from the forehead to the chin and ear to ear; _he washed his face_
+````
++(e1: +BE_00 (x1: +FACE_00)Theme (x2: +BODY_AREA_00)Referent)
+*(e2: +BE_02 (x3: 2 +CHEEK_00 & 1 +CHIN_00 & 2 +EYE_00 & 1 +NOSE_00 & 1 +FOREHEAD_00)Theme (x1)Location)
+````
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cara/face_conmatrix_dataset_01.csv">Dataset 01</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cara/face_conmatrix_dataset_02.csv">Dataset 02</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cara/face_conmatrix_dataset_03.csv">Dataset 03</a>
 
 **Sentido +SIDE_00 =** A surface forming part of the outside of an object; _he examined all sides of the crystal_
+````
++(e1: +BE_00 (x1: +SIDE_00)Theme (x2: +SURFACE_00)Referent)
+````
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cara/side_conmatrix_dataset_01.csv">Dataset 01</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cara/side_conmatrix_dataset_02.csv">Dataset 02</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cara/side_conmatrix_dataset_03.csv">Dataset 03</a>
@@ -109,16 +117,30 @@ Se seleccionó una submuestra desde subcorpora ‘Periodismo’, perteneciente a
 #### 3. Matrices de confusión para los sentidos de la unidad léxica «carta»
 
 **Sentido +CARD_00 =** A small piece of thick stiff paper with numbers or pictures on them used to play a particular game
+````
++(e1: +BE_00 (x1: +CARD_00)Theme (x2: +PAPER_00)Referent) 
+*(e2: +BE_01 (x1)Theme (x3: +SMALL_00)Attribute)
+````
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_carta/card_conmatrix_dataset_01.csv">Dataset 01</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_carta/card_conmatrix_dataset_02.csv">Dataset 02</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_carta/card_conmatrix_dataset_03.csv">Dataset 03</a>
 
 **Sentido +LETTER_00 =** A written message addressed to a person or organization; _wrote an indignant letter to the editor_
+````
++(e1: +BE_00 (x1: +LETTER_00)Theme (x2: +DOCUMENT_00)Referent)
++(e2: +WRITE_00 (x3: +HUMAN_00)Theme (x1)Referent) 
+*(e3: +PUT_00 (x3)Agent (x1)Theme (x4)Origin (x5: +ENVELOPE_00)Goal (f1: +IN_00)Position (f2: (e3: +SEND_00 (x3)Agent (x1)Theme (x6)Origin (x7)Goal))Purpose)
+````
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_carta/letter_conmatrix_dataset_01.csv">Dataset 01</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_carta/letter_conmatrix_dataset_02.csv">Dataset 02</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_carta/letter_conmatrix_dataset_03.csv">Dataset 03</a>
 
 **Sentido $MENU_00 =** A list of dishes available at a restaurant; _the menu was in French_
+````
++(e1: +BE_00 (x1: $MENU_00)Theme (x2: +LIST_00)Referent)
++(e2: +KNOW_00 (x3: +HUMAN_00)Theme (x4: (e3: +SELL_00 (x5: +RESTAURANT_00)Agent (x6: +FOOD_00)Theme (x5)Origin (x3)Goal))Referent 
+(f1: x1)Instrument)
+````
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_carta/menu_conmatrix_dataset_01.csv">Dataset 01</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_carta/menu_conmatrix_dataset_02.csv">Dataset 02</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_carta/menu_conmatrix_dataset_03.csv">Dataset 03</a>
