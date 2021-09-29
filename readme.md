@@ -57,10 +57,10 @@ Se seleccionó una submuestra desde subcorpora ‘Periodismo’, perteneciente a
 #### 1. Matrices de confusión para los sentidos de la unidad léxica «cabeza»
 
 **Sentido +CHIEF_00 =** A person who is in charge; _the head of the whole operation_
-``
+``````
 +(e1: +BE_00 (x1: +CHIEF_00)Theme (x2: +RULER_00)Referent)
 +(e2: +CONTROL_00 (x1)Theme (x3: +COMPANY_00 ^ +ORGANIZATION_00)Referent)
-``
+``````
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/chief_conmatrix_dataset_01.csv">Dataset 01</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/chief_conmatrix_dataset_02.csv">Dataset 02</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_cabeza/chief_conmatrix_dataset_03.csv">Dataset 03</a>
