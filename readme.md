@@ -133,14 +133,20 @@ Se seleccionó una submuestra desde subcorpora _Periodismo_, perteneciente al co
 +(e2: +KNOW_00 (x3: +HUMAN_00)Theme (x4: (e3: +SELL_00 (x5: +RESTAURANT_00)Agent (x6: +FOOD_00)Theme (x5)Origin (x3)Goal))Referent 
 (f1: x1)Instrument)
 ````
-- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_carta/menu_conmatrix_dataset_01.csv">Dataset 01</a>
-- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_carta/menu_conmatrix_dataset_02.csv">Dataset 02</a>
-- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_carta/menu_conmatrix_dataset_03.csv">Dataset 03</a>
+- [Dataset 01](matrices_confusi%C3%B3n/sentidos_carta/menu_conmatrix_dataset_01.csv)
+- [Dataset 02](matrices_confusi%C3%B3n/sentidos_carta/menu_conmatrix_dataset_02.csv)
+- [Dataset 03](matrices_confusi%C3%B3n/sentidos_carta/menu_conmatrix_dataset_03.csv)
 
-#### 4. <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/macroaverages_codicach.csv"> Macropromedios</a> para los sistemas de desambiguación léxica automática
+#### 4. Macropromedios para los sistemas de desambiguación léxica automática
+
+| Sistema | Precisión | Cobertura | Puntaje-F
+| :--: | :--: | :--: | :--: |
+| cabeza | 37.15% | 37.75% | 41.15%
+| cara | 50.55% | 48.95% | 48.15%
+| carta | 61.07% | 59.27% | 58.3%
 
 ## DAMIEN (Data Mining Encountered)
-Todos los experimentos fueron realizados utilizando el entorno infomático DAMIEN (DAta MIning ENcountered), que integra técnicas de múltiples disciplinas dentro de análisis de texto (*lingüística de corpus*, *estadística* y *minería textual*) para apoyar la investigación lingüística de manera más efectiva. La herramienta ha sido desarrollada por <a href="http://www.fungramkb.com/bio/jcperinan.html">Carlos Periñán Pascual</a>. Es de uso libre, y se encuentra disponible en http://www.fungramkb.com/nlp.aspx. Para más información, se recomienda el artículo <a href="https://ojsspdc.ulpgc.es/ojs/index.php/LFE/article/view/921/843">*Bridging the gap within text-data analytics: a computer environment for data analysis in linguistic research*</a> (Periñán-Pascual, 2017).
+Todos los experimentos fueron realizados utilizando el entorno infomático DAMIEN (DAta MIning ENcountered), que integra técnicas de múltiples disciplinas dentro de análisis de texto (*lingüística de corpus*, *estadística* y *minería textual*) para apoyar la investigación lingüística de manera más efectiva. La herramienta ha sido desarrollada por [Carlos Periñán Pascual](http://www.fungramkb.com/bio/jcperinan.html) Es de uso libre, y se encuentra disponible en http://www.fungramkb.com/nlp.aspx. Para más información, se recomienda el artículo [*Bridging the gap within text-data analytics: a computer environment for data analysis in linguistic research](https://ojsspdc.ulpgc.es/ojs/index.php/LFE/article/view/921/843) (Periñán-Pascual, 2017).
 
 ----
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/fredyrodrigors/tesis-phd">Diseño y desarrollo de un modelo de desambiguación léxica automática para el procesamiento del lenguaje natural</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.researchgate.net/profile/Fredy-Nunez-Torres">Fredy Núñez Torres</a> (2021) is licensed under <a href="http://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"></a></p>
