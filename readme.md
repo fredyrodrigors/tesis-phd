@@ -39,7 +39,7 @@ Se seleccionó una submuestra desde subcorpora _Periodismo_, perteneciente al co
 - [Colección de documentos «cara»](corpus_seleccion_codicach/cara_corpus_seleccion.csv)
 - [Colección de documentos «carta»](corpus_seleccion_codicach/carta_corpus_seleccion.csv)
 
-**Tareas de procesamiento (archivos `zip`para descargar)** 
+**Tareas de procesamiento (archivos _.zip_ para descargar)** 
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/tareas_de_procesamiento/Tareas%20de%20procesamiento%20experimento%20ML-CABEZA.zip">Procesamiento aprendizaje automático «cabeza»</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/tareas_de_procesamiento/Tareas%20de%20procesamiento%20experimento%20ML-CARA.zip">Procesamiento aprendizaje automático «cara»</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/tareas_de_procesamiento/Tareas%20de%20procesamiento%20experimento%20ML-CARTA.zip">Procesamiento aprendizaje automático «carta»</a> 
