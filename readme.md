@@ -7,7 +7,7 @@ El corpus utilizado para la tarea de muestra léxica del español en [SENSEVAL-3
 
 - [Minidiccionario para los sentidos de «partido»](experimento_senseval-3/partido_minidir_senseval.xml)
 - [Corpus de 120 instancias para cada uno de los sentidos de «partido»](experimento_senseval-3/partido_instancecorpus_senseval.xml)
-- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/tareas_de_procesamiento/Tareas%20de%20procesamiento%20SENSEVAL-3.zip">Tareas de procesamiento SENSEVAL-3</a> (archivo `zip`para descargar) 
+- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/tareas_de_procesamiento/Tareas%20de%20procesamiento%20SENSEVAL-3.zip">Tareas de procesamiento SENSEVAL-3</a> (archivo _.zip_ para descargar) 
 
 ### Resultados de experimento SENSEVAL-3 para las medidas de reducción de dimesión
 
