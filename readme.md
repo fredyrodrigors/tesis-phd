@@ -113,7 +113,7 @@ Se seleccionó una submuestra desde subcorpora _Periodismo_, perteneciente al co
 +(e1: +BE_00 (x1: +CARD_00)Theme (x2: +PAPER_00)Referent) 
 *(e2: +BE_01 (x1)Theme (x3: +SMALL_00)Attribute)
 ````
-- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_carta/card_conmatrix_dataset_01.csv">Dataset 01</a>
+- [Dataset 01](matrices_confusi%C3%B3n/sentidos_carta/card_conmatrix_dataset_01.csv)
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_carta/card_conmatrix_dataset_02.csv">Dataset 02</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_carta/card_conmatrix_dataset_03.csv">Dataset 03</a>
 
@@ -123,9 +123,9 @@ Se seleccionó una submuestra desde subcorpora _Periodismo_, perteneciente al co
 +(e2: +WRITE_00 (x3: +HUMAN_00)Theme (x1)Referent) 
 *(e3: +PUT_00 (x3)Agent (x1)Theme (x4)Origin (x5: +ENVELOPE_00)Goal (f1: +IN_00)Position (f2: (e3: +SEND_00 (x3)Agent (x1)Theme (x6)Origin (x7)Goal))Purpose)
 ````
-- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_carta/letter_conmatrix_dataset_01.csv">Dataset 01</a>
-- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_carta/letter_conmatrix_dataset_02.csv">Dataset 02</a>
-- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/matrices_confusi%C3%B3n/sentidos_carta/letter_conmatrix_dataset_03.csv">Dataset 03</a>
+- [Dataset 01](matrices_confusi%C3%B3n/sentidos_carta/letter_conmatrix_dataset_01.csv)
+- [Dataset 02](matrices_confusi%C3%B3n/sentidos_carta/letter_conmatrix_dataset_02.csv)
+- [Dataset 03](matrices_confusi%C3%B3n/sentidos_carta/letter_conmatrix_dataset_03.csv)
 
 **Sentido $MENU_00 =** A list of dishes available at a restaurant; _"the menu was in French"_
 ````
