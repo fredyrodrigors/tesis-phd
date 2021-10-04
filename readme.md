@@ -11,17 +11,17 @@ El corpus utilizado para la tarea de muestra léxica del español en [SENSEVAL-3
 
 ### Resultados de experimento SENSEVAL-3 para las medidas de reducción de dimesión
 
-**"partido.1" =**  Organización política cuyos miembros comparten la misma ideología
+1. **"partido.1" =**  Organización política cuyos miembros comparten la misma ideología
 - ["partido.1" para chi-cuadrado](experimento_senseval-3/resultados_partido1_chisquare.csv)
 - ["partido.1" para medida de ganancia de información](experimento_senseval-3/resultados_partido1_informationgain.csv)
 - ["partido.1" para medida de información mutua](experimento_senseval-3/resultados_partido1_mutualinformation.csv)
 
-**"partido.2" =**  Prueba deportiva en la que se enfrentan dos equipos o jugadores
+2. **"partido.2" =**  Prueba deportiva en la que se enfrentan dos equipos o jugadores
 - ["partido.2" para medida de chi-cuadrado](experimento_senseval-3/resultados_partido2_chisquare.csv)
 - ["partido.2" para medida de ganancia de información](experimento_senseval-3/resultados_partido2_informationgain.csv)
 - ["partido.2" para medida de información mutua](experimento_senseval-3/resultados_partido2_mutualinformation.csv)
 
-**Sistema "partido"**
+3. **Sistema "partido"**
 - [Sistema "partido" para medida de chi-cuadrado](experimento_senseval-3/resultados_sistemapartido_chisquare.csv)
 - [Sistema "partido" para medida de ganancia de información](experimento_senseval-3/resultados_sistemapartido_informationgain.csv)
 - [Sistema "partido" para medida de información mutua](experimento_senseval-3/resultados_sistemapartido_mutualinformation.csv)
@@ -155,13 +155,13 @@ Se seleccionó una submuestra desde subcorpora _Periodismo_, perteneciente al co
 - [Dataset 02](matrices_confusi%C3%B3n/sentidos_carta/menu_conmatrix_dataset_02.csv)
 - [Dataset 03](matrices_confusi%C3%B3n/sentidos_carta/menu_conmatrix_dataset_03.csv)
 
-#### 4. Macropromedios para los sistemas de desambiguación léxica automática
+#### 4. Macro-promedios para los sistemas de desambiguación léxica automática
 
-| Sistema | Precisión | Cobertura | Puntaje-F
+| Sistema | Macro-prom precisión | Macro-prom cobertura | Macro-prom puntaje-F
 | :--: | :--: | :--: | :--: |
-| cabeza | 37.15% | 37.75% | 41.15%
-| cara | 50.55% | 48.95% | 48.15%
-| carta | 61.07% | 59.27% | 58.3%
+| `cabeza` | 37.15% | 37.75% | 41.15%
+| `cara` | 50.55% | 48.95% | 48.15%
+| `carta` | 61.07% | 59.27% | 58.3% 
 
 ## DAMIEN (Data Mining Encountered)
 Todos los experimentos fueron realizados utilizando el entorno infomático DAMIEN (DAta MIning ENcountered), que integra técnicas de múltiples disciplinas dentro de análisis de texto (*lingüística de corpus*, *estadística* y *minería textual*) para apoyar la investigación lingüística. La herramienta ha sido desarrollada por [Carlos Periñán Pascual](http://www.fungramkb.com/bio/jcperinan.html) (Departamento de Lingüística Aplicada, Universitat Politècnica de València). Es de uso libre, y se encuentra disponible en <http://www.fungramkb.com/nlp.aspx>. Para más información, se recomienda el artículo [_Bridging the gap within text-data analytics: a computer environment for data analysis in linguistic research_](https://ojsspdc.ulpgc.es/ojs/index.php/LFE/article/view/921/843) (Periñán-Pascual, 2017).
