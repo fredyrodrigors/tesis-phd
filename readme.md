@@ -27,7 +27,7 @@ El corpus utilizado para la tarea de muestra léxica del español en [SENSEVAL-3
 - [Sistema "partido" para medida de información mutua](experimento_senseval-3/resultados_sistemapartido_mutualinformation.csv)
 
 ## Experimento CODICACH
-Se seleccionó una submuestra desde subcorpora _Periodismo_, perteneciente al corpus <a href="http://sadowsky.cl/codicach-es.html">CODICACH (Corpus Dinámino del Castellano de Chile)</a> con un conteo de 534.921.215 unidades léxicas disponibles. Cada una de las columnas a partir de las que se organizó el corpus corresponde a las variables *corpusID* (identificador de la instancia en un archivo digital de CODICACH); *source* (fuente desde la que se extrae la instancia en el corpus, correspondiente a un medio de comunicación escrito chileno, como periódico o revista); *context*  (ventana de palabras en la que aparece la palabra objetivo); *senseID* (etiqueta para el sentido de la palabra objetivo en la ventana contextual correspondiente, que a su vez se relaciona con el concepto en COREL extraído desde la base de conocimiento FunGramKB). Todos los sentidos para las 120 instancias correspondientes a cada una de las unidades léxicas en análisis fueron etiquetados manualmente.
+Se seleccionó una submuestra desde subcorpora _Periodismo_, perteneciente al corpus <a href="http://sadowsky.cl/codicach-es.html">CODICACH (Corpus Dinámino del Castellano de Chile)</a> con un conteo de 534.921.215 unidades léxicas disponibles. Cada una de las columnas a partir de las que se organizó el corpus corresponde a las variables _corpusID_ (identificador de la instancia en un archivo digital de CODICACH); _source_ (fuente desde la que se extrae la instancia en el corpus, correspondiente a un medio de comunicación escrito chileno, como periódico o revista); _context_  (ventana de palabras en la que aparece la palabra objetivo); _senseID_ (etiqueta para el sentido de la palabra objetivo en la ventana contextual correspondiente, que a su vez se relaciona con el concepto en COREL extraído desde la base de conocimiento FunGramKB). Todos los sentidos para las 120 instancias correspondientes a cada una de las unidades léxicas en análisis fueron etiquetados manualmente.
 
 **Minidiccionarios desde la base de conocimiento FunGramKB**
 - [Sentidos de «cabeza»](mini_diccionarios_fgkb/cabeza_minidir_fgkb.csv)
@@ -39,7 +39,7 @@ Se seleccionó una submuestra desde subcorpora _Periodismo_, perteneciente al co
 - [Colección de documentos «cara»](corpus_seleccion_codicach/cara_corpus_seleccion.csv)
 - [Colección de documentos «carta»](corpus_seleccion_codicach/carta_corpus_seleccion.csv)
 
-**Tareas de procesamiento (archivos `.zip para descargar)** 
+**Tareas de procesamiento (archivos `.zip` para descargar)** 
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/tareas_de_procesamiento/Tareas%20de%20procesamiento%20experimento%20ML-CABEZA.zip">Procesamiento aprendizaje automático «cabeza»</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/tareas_de_procesamiento/Tareas%20de%20procesamiento%20experimento%20ML-CARA.zip">Procesamiento aprendizaje automático «cara»</a>
 - <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/tareas_de_procesamiento/Tareas%20de%20procesamiento%20experimento%20ML-CARTA.zip">Procesamiento aprendizaje automático «carta»</a> 
@@ -164,7 +164,7 @@ Se seleccionó una submuestra desde subcorpora _Periodismo_, perteneciente al co
 | carta | 61.07% | 59.27% | 58.3%
 
 ## DAMIEN (Data Mining Encountered)
-Todos los experimentos fueron realizados utilizando el entorno infomático DAMIEN (DAta MIning ENcountered), que integra técnicas de múltiples disciplinas dentro de análisis de texto (*lingüística de corpus*, *estadística* y *minería textual*) para apoyar la investigación lingüística de manera más efectiva. La herramienta ha sido desarrollada por [Carlos Periñán Pascual](http://www.fungramkb.com/bio/jcperinan.html) Es de uso libre, y se encuentra disponible en <http://www.fungramkb.com/nlp.aspx>. Para más información, se recomienda el artículo [*Bridging the gap within text-data analytics: a computer environment for data analysis in linguistic research](https://ojsspdc.ulpgc.es/ojs/index.php/LFE/article/view/921/843) (Periñán-Pascual, 2017).
+Todos los experimentos fueron realizados utilizando el entorno infomático DAMIEN (DAta MIning ENcountered), que integra técnicas de múltiples disciplinas dentro de análisis de texto (*lingüística de corpus*, *estadística* y *minería textual*) para apoyar la investigación lingüística. La herramienta ha sido desarrollada por [Carlos Periñán Pascual](http://www.fungramkb.com/bio/jcperinan.html) (Departamento de Lingüística Aplicada, Universitat Politècnica de València). Es de uso libre, y se encuentra disponible en <http://www.fungramkb.com/nlp.aspx>. Para más información, se recomienda el artículo [_Bridging the gap within text-data analytics: a computer environment for data analysis in linguistic research_](https://ojsspdc.ulpgc.es/ojs/index.php/LFE/article/view/921/843) (Periñán-Pascual, 2017).
 
 ----
 
