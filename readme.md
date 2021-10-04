@@ -40,9 +40,9 @@ Se seleccionó una submuestra desde subcorpora _Periodismo_, perteneciente al co
 - [Colección de documentos «carta»](corpus_seleccion_codicach/carta_corpus_seleccion.csv)
 
 **Tareas de procesamiento** (archivos `.zip` para descargar) 
-- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/tareas_de_procesamiento/Tareas%20de%20procesamiento%20experimento%20ML-CABEZA.zip">Procesamiento aprendizaje automático «cabeza»</a>
-- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/tareas_de_procesamiento/Tareas%20de%20procesamiento%20experimento%20ML-CARA.zip">Procesamiento aprendizaje automático «cara»</a>
-- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/tareas_de_procesamiento/Tareas%20de%20procesamiento%20experimento%20ML-CARTA.zip">Procesamiento aprendizaje automático «carta»</a> 
+- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/tareas_de_procesamiento/Tareas%20de%20procesamiento%20experimento%20ML-CABEZA.zip">Tareas de procesamiento para «cabeza»</a>
+- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/tareas_de_procesamiento/Tareas%20de%20procesamiento%20experimento%20ML-CARA.zip">Tareas de procesamiento para «cara»</a>
+- <a href="https://github.com/fredyrodrigors/tesis-phd/blob/main/tareas_de_procesamiento/Tareas%20de%20procesamiento%20experimento%20ML-CARTA.zip">Tareas de procesamiento para «carta»</a> 
 
 ### Resultados de experimento CODICACH
 
