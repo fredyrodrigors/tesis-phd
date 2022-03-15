@@ -2,6 +2,10 @@
 
 Este repositorio contiene los archivos `.txt`, `.csv`, `.xml` y `.xsl` correspondientes a los recursos lingüísticos, los experimentos y los resultados de la implementación de un modelo de desambiguación léxica automática (presentado en el programa de [Doctorado en Lingüística](http://posgrado.letras.uc.cl/index.php/descripcion-doctorado-linguistica) de la Facultad de Letras de la Pontificia Universidad Católica de Chile).
 
+Los resultados de esta tesis doctoral están vinculados con el desarrollo del módulo de PLN en el proyecto de investigación "Planificación y gestión de recursos hídricos a partir de análisis de datos de IoT (WATERoT)" (RTC 2017-6389-5), financiado por el Ministerio de Economía, Industria y Competitividad (MINECO), Agencia Estatal de Investigación (AEI) y el Fondo Europeo de Desarrollo Regional (FEDER).
+
+![logo](https://user-images.githubusercontent.com/75996532/158468616-2cf506cb-f71f-44f5-9e7d-4beb989529c8.png)
+
 ## Experimento piloto Senseval-3
 El corpus utilizado para la tarea de muestra léxica del español en [SENSEVAL-3 (Evaluating Word Sense Disambiguation Systems)](http://web.eecs.umich.edu/~mihalcea/senseval/">SENSEVAL-3) está formado por 12.625 ejemplos etiquetados, que cubren 25.875 frases y 1.506.233 palabras en total. El contexto considerado para cada ejemplo incluye la palabra objetivo, más una ventana contextual. Todos los ejemplos han sido extraídos desde el corpus del año 2000 de la Agencia Española de Noticias EFE, que incluye 289.066 noticias (2.814.291 frases y 95.344.946 palabras), de enero a diciembre de 2000. Para cada palabra, un mínimo de 200 ejemplos han sido etiquetados manualmente por tres anotadores humanos expertos independientes. Los casos de desacuerdo han sido resueltos por otro lexicógrafo (asignando un sentido único a cada ejemplo). Para la ejecución del experimento de prueba de aprendizaje automático utilizando el algoritmo bayesiano ingenuo, se seleccionaron 120 instancias de la  muestra léxica para la palabra objetivo «partido», extraída desde el corpus SENSEVAL-3.
 
