@@ -1,6 +1,10 @@
 # Diseño y desarrollo de un modelo de desambiguación léxica automática (Núñez, 2021)
 
-Este repositorio contiene los archivos `.txt`, `.csv`, `.xml` y `.xsl` correspondientes a los recursos lingüísticos, los experimentos y los resultados de la implementación de un modelo de desambiguación léxica automática (presentado en el programa de [Doctorado en Lingüística](http://posgrado.letras.uc.cl/index.php/descripcion-doctorado-linguistica) de la Facultad de Letras de la Pontificia Universidad Católica de Chile).
+Este repositorio contiene los archivos `.txt`, `.csv`, `.xml` y `.xsl` correspondientes a los recursos lingüísticos, los experimentos y los resultados de la implementación de un modelo de desambiguación léxica automática (presentado en el programa de [Doctorado en Lingüística](http://posgrado.letras.uc.cl/index.php/descripcion-doctorado-linguistica) de la Facultad de Letras de la Pontificia Universidad Católica de Chile). La presente investigación tiene como objetivo general desarrollar un modelo más robusto de medida para la similitud y relación semántica que los disponibles actualmente para resolver el problema de la desambiguación léxica automática, aplicado al procesamiento del lenguaje natural (PLN).
+
+Mis estudios doctorales fueron patrocinados por la Agencia Nacional de Investigación y Desarrollo (ANID) del Ministerio de Ciencia, Tecnología, Conocimiento e Innovación del Gobierno de Chile, en el marco del Programa de Formación de Capital Humano Avanzado, Beca de Doctorado Nacional 2016 (folio Nº 21160361). La tesis se encuentra disponible en el [Repositorio ANID](http://repositorio.anid.cl/bitstream/handle/10533/253059/tesisphd-fredy-nunez-torres.pdf?sequence=1&isAllowed=y).
+
+<img width="160" alt="logo ANID digital" src="https://user-images.githubusercontent.com/75996532/158469457-d0072cb8-bc55-4332-8d81-14730fcba9a4.png">
 
 Los resultados de esta tesis doctoral están vinculados con el desarrollo del módulo de PLN en el proyecto de investigación "Planificación y gestión de recursos hídricos a partir de análisis de datos de IoT (WATERoT)" (RTC 2017-6389-5), financiado por el Ministerio de Economía, Industria y Competitividad (MINECO), Agencia Estatal de Investigación (AEI) y el Fondo Europeo de Desarrollo Regional (FEDER).
 
